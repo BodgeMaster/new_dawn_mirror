@@ -1,20 +1,38 @@
-**BEEP BEEP**
+beep beep
 
 What was that? Annie turns around.
 
+beep beep
+
+That came from the hallway. She steps outside her office to see where this noise is coming from. Everyone else had already gone home and she was about to leave as well so this is weird.
+
+beep beep
+
+She stops to listen. Following the sound she walks down the hallway.
+
+**beep beep**
+
+She opens a door to the left. It reveals a staircase that leads down to the basement.
+
 **BEEP BEEP**
 
-That came from the hallway. She steps outside her office to see where this noise is coming from. Everyone else had already gone home and she was about to leave as well so this was weird.
+It sounds clear, she is close to it. Annie walks down the stairs and turns on the lights. She was only down here once before. Rows of shelves hold lots of documents, some standing up vertically in folders and boxes, others as horizontal stacks of paper. The room is dimly lit by a few light fixtures on the walls.
 
 **BEEP BEEP**
 
-She opens the door to the room across the hallway. On a desk in the corner sits a terminal. <needs image of a dumb terminal for people who aren't retro nerds> The reception desk has one of these. They always use it to order office supplies.
+She walks past the shelves. The noise is now very close. Behind the last shelf, she finds a corner that looks like a small office. There is a desk with a terminal and a comfortable-looking though well-worn leather chair.
 
-**BEEP BEEP**
+##### BEEP BEEP
+
+The terminal is a device that looks like kind of a weird TV... It has a small screen to display text and a bunch of buttons - a lot of buttons. Below the screen are multiple rows of them with letters and other symbols. The reception desk has one of these things; they always use it to order new office supplies when they run out and do other important-sounding work... *image of a dumb terminal with an integrated keyboard here would be nice*.
+
+*not to self: Add something like "she turns on the lamp on the desk"*
+
+##### BEEP BEEP
 
 The text on the terminal blinks. She had never used one before but taking a quick look can’t hurt...
 
-**BEEP BEEP**
+##### BEEP BEEP
 
 \[Screen:\]
 
@@ -25,24 +43,17 @@ This is Jack from CryoCorp Outpost 53. I got woken up from cryogenic sleep and a
 Type reply: █
 ```
 
-**BEEP BEEP**
+##### BEEP BEEP
 
-She sits down in front of it. The thing has a bunch of buttons with letters, should be easy enough...
+She sits down on the chair in front of it. The thing has a bunch of buttons with letters, should be easy enough...
 
-**BEEP BEEP**
+##### BEEP BEEP
 
 ```
 hello
 ```
 
-The beeping noise stops.
-
-*ChatGPT Feedback:*  
-*More sensory detail here. Maybe about the chair, but most importantly about the terminal. What does it look like? What does the keyboard feel like (after all, this is the first time she would be typing on one)?*
-
-*Could be a comment about a satisfying click-clack or something...*
-
-*Also, a comment of my own: A short description of the room can’t hurt. Like this, it’s just a room with a desk in it. Might as well have been all that’s in the room (which is kinda what I originally imagined, but that would be boring... Should be a room with a function other than holding a terminal forgotten by IT)...*
+Click,    click,         click, click,   click. The buttons click with a very satisfying feeling. Unlike the beeping noise which is ...  now gone. It was __kinda__ loud and getting annoying.
 
 ```
 i am going to get help
@@ -50,12 +61,12 @@ i am going to get help
 Thank you. Appreciate it.
 ```
 
-That took a while to *type?*... The letter buttons are arranged in a weird order... Annie looks around. A phone! She picks it up - no signal. Weird. Maybe it’s disconnected. She puts it down and rushes back to her office and picks up her phone... Strange electrical noises. She tries to dial a number but nothing happens. She drops the receiver back on the cradle and returns to the terminal.
+That took a while to *type?*... Is that the word? The letter buttons are arranged in a strange order... Annie looks around. A stack of papers, a cup with pens and pencils, a screwdriver, a rubber duck - what a weird place to find a rubber duck... A phone! She picks it up - no signal. Weird. Maybe it’s disconnected. She looks on the floor and, sure enough, there is the plug - not for much longer as she plugs it in. Strange electrical noises. She tries to dial a number but nothing happens. A couple random characters appear on the terminal. She drops the receiver back on the cradle and types into the terminal again:
 
 ```
 i cant call anyone the phone is only making weird noises
 
-That’s probably because I am connected through a modem on the same line. I’ll disconnect. I will dial in again in a bit.
+That’s probably because I am connected through a modem on the same line. I’ll disconnect. I will dial in again in a bit. Talk to you later.
 
 LINE DISCONNECTED -
 Tue, 2106-06-01, 19:16
@@ -63,28 +74,42 @@ Tue, 2106-06-01, 19:16
 AgriWorks Login: █
 ```
 
-She walks back over to her office and picks up the phone - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, *CryoCorp Outpost 53*, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
+Annie picks up the phone again - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, *CryoCorp Outpost 53*, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
 
-<Missing dialog here:
+"Hello", says an old, friendly voice on the other end.
 
-* reveals that CryoCorp Outpost 53 is unreachable because it is outside of the dome
-* his dad had mentioned it in passing when talking about the old world and attempts to overcome the impending doom of humanity
-* explanation of what "cryogenic sleep" is
-* his dad had thought that it was a ridiculous idea that could never work
+"Hello, it’s Annie."
 
-\\>
+"Hey Annie! What’s on your mind that you call now?" *Not to self: Improve this, it doesn’t sound right to me*
 
-Slowly, she sets the receiver back on the cradle. What would she tell Jack? What could she do for him? And there was an outside world? A whole world, much bigger than the city, that she had never heard of and would never see? She gets up. While leaving her office, she glances at the terminal in the other room but the text hadn’t changed. She goes to the reception area to find some snacks. A cup of juice and a cookie later, she returns holding two additional cookies in her hand. She paces back and forth between her office and the terminal room while taking small bites of the cookies. One cookie disappears, and then the other one. And then she paces some more...
+"Hey Grandpa! So ... Uhhh..." She makes a short pause. "This might be a little bit weird but someone contacted me from a location called ‘CryoCorp Outpost 53’. I wondered if you happen to know where that is."
 
-**BEEP BEEP**
+"CryoCorp... That’s a name I haven’t heard in a long time... Are you sure?"
 
-Annie looks up. That had to be the terminal again. She walks over.
+"Yes, he wrote it to me: CryoCorp Outpost 53."
+
+"What did he want?
+
+*Missing dialog here:*
+
+* *reveals that CryoCorp Outpost 53 is unreachable because it is outside of the dome*
+* *his dad had mentioned it in passing when talking about the old world and attempts to overcome the impending doom of humanity*
+* *explanation of what "cryogenic sleep" is*
+* *his dad had thought that it was a ridiculous idea that could never work*
+
+Slowly, she sets the receiver back on the cradle. What would she tell Jack? What could she do for him? And there was an outside world? A whole world, much bigger than the city, that she had never heard of and would never see? She looks at the terminal but the text hadn’t changed.
+
+Annie gets up to grab some snacks. A cup of juice and a cookie later, she returns, holding two additional cookies. She leans against the wall while nibbling at one of them. The second cookie is almost gone when she hears it again:
+
+##### BEEP BEEP
+
+Annie looks up. That was the terminal. She walks over.
 
 ```
 Hello again.
 ```
 
-She sits down in front of the terminal.
+Again, she sits down in the chair.
 
 ```
 hello  i am really sorry but we cannot help you we cant get to outpost 53 its outside
@@ -92,10 +117,10 @@ hello  i am really sorry but we cannot help you we cant get to outpost 53 its ou
 Hm. Okay...
 ```
 
-Annie doesn’t know what to say. She feels bad about it, but there really is nothing she could do.
+Annie doesn’t know what to say. She feels bad for Jack, but there really is nothing she could do about it.
 
 ```
-is there anything else i could help you with
+is there anything else i could do for you
 
 Let me think for a moment.
 ......
@@ -167,11 +192,23 @@ can we talk tomorrow  i have questions
 
 We can tal
 LINE DISCONNECTED -
-Tue, 2106-06-01, 20:07
+Tue, 2106-06-01, 20:12
 
 AgriWorks Login:
 ```
 
 "Is that a yes or a no?", Annie wonders, still slightly puzzled by the whole situation. She starts reading all that's still on the screen. "The light of day", she quietly says to herself.
 
-As she reads the section with the bunker door and the phone number, she reaches for a pen and some paper and writes them down - whoever works here hopefully won’t mind (she had never seen anyone enter or leave this room). As Annie continues reading, she hears a quiet clicking noise and the terminal turns off with a flash of the screen. A tiny red light illuminates the letters "RDY" on the side.
+As she reads the section with the bunker door and the phone number, she reaches for a pen and some paper and writes them down - whoever works here hopefully won’t mind. As Annie continues reading, she hears a quiet clicking noise and the terminal turns off with a flash of the screen that quickly fades to black. A tiny red light on the side comes on to illuminate the letters "RDY".
+
+*This still needs a satisfying conclusion of how she gets up, grabs her stuff, and leaves.*
+
+Annie closes the door behind herself and locks it. As she takes a breath of the slightly humid air, she takes a step back onto the sidewalk to look at the clock above the entrance... 20:35 - the realization of how much time had passed hits: Normally she’d be home by now. She starts walking towards the metro station at the corner. The buildings here are similar to the ones in other parts of the city - three to four story houses painted in different colors - but they are lacking balconies and, instead of being homes, they mostly house offices. On the other side of the street is an embankment that holds the rails for the metro and beyond that the outer wall of the dome. The street lights illuminating the area had already switched to their low-brightness mode for the night. She had only seen it like this a couple of times, it made the area look eerie.
+
+Annie reaches the corner. She looks left and right before crossing the street but not a single car is in sight. As she enters the station and walks up the stairs, she glances at the display - 21 minutes until the next train arrives, that’s a long wait... The station is completely devoid of life, nobody else is out here this late. Annie walks up to the vending machine at the upper end of the staircase - "OUT OF ORDER"... Hrm. Mildly frustrated, she sits down on one of the benches and and starts rummaging in her bag. She finds her headphones and puts them on. At the end of the cable is her walkman. She presses play and starts listening. *Yes, spell-checker, I know that Walkman is a name and should be capitalized. "Portable cassette player" just doesn’t sound nearly as elegant and I don't want it to be a Sony Walkman.*
+
+*The next section/chapter is Jack’s intro where he wakes up and experiences his side of the situation.*
+
+*Her story line will pick up when the train arrives or when she wakes up the next day.*
+
+\--
