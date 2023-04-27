@@ -1,0 +1,113 @@
+**Cities:**
+
+* Siren’s Song (formerly Siren’s Edge) 
+  * post-apocalyptic ruin city
+  * close enough to Ivydale that they share a public transport system
+  * located on the coast 
+    * has (used to have) a port
+  * buildings in various stages of disrepair 
+    * including sky scrapers that would fit right in in HZD
+  * many things were left behind, definitely worth looting random buildings
+  * located on one side of a bay, across from Rogue Tides
+  * two groups and some individuals have taken up residence in different parts of the city 
+    * rival mentality
+* Ivydale 
+  * post-apocalyptic ruin city
+  * close enough to Siren’s Song that they share a public transport system
+  * located in a valley
+  * buildings in various stages of disrepair 
+    * no sky scrapers
+  * many things were left behind, definitely worth looting random buildings
+* Underground Dome City 
+  * still needs a name
+  * inside a huge hermetically sealed dome under a mountain
+  * basically a normal city otherwise 
+    * mostly three to five story buildings
+    * some unique buildings and sky scrapers in the center
+    * few single-family homes
+  * past its prime but most things are intact
+  * has a metro for public transport 
+    * can be used for entering/leaving the city but that hasn’t been done since the apocalypse and it’ s strictly forbidden
+  * food is farmed in big silos adjacent to the dome 
+    * illuminated by daylight through hermetically sealed light shafts but inaccessible to most ppl
+  * ppl mostly lead normal lives and have normal jobs
+  * waste water is recycled in a closed loop system 
+    * maybe slight water scarcity due to slow treatment process
+    * no rivers, bodies of water, or anything like that
+  * relies on external facilities for power 
+    * Nobody is concerned about the possibility of it ever not being there. 
+      * "Power comes from the wall, right?"
+  * inhabitants never arrived in the numbers that were expected so, while there are a lot of ppl there, roughly half of the homes are time capsules
+* Nova Metropolis 
+  * location of moon girl’s landing
+  * bigger than Siren’s Song and built inland
+  * built around an oasis in a desert 
+    * not the kind of desert where sand gets piled up into dunes otherwise it would have gotten buried
+  * buildings in a lot better shape due to being in a desert
+* Westport 
+  * Just a location that is mentioned in passing
+* Rogue Tides 
+  * small town that has (used to have) a datacenter
+  * across the bay from Siren’s Song
+
+**Facilities/Institutions:**
+
+* Hydro power station 
+  * miraculously still intact and working despite never being maintained since the apocalypse
+  * power source of the underground city
+  * in dire need of repairs
+* Cryo Outpost 53 
+  * built by Neotek Dynamics
+  * on the outskirts of Ivydale
+  * an attempt to get personnel to survive beyond the apocalypse so they can help with keeping the moon colony alive
+  * Backstory: A good portion of the bunker crew has been woken up decades before Jack 
+    * they left to do their mission somehow sending supplies to the moon
+    * bunker wasn’t resealed properly 
+      * hardware has degraded/failed
+      * maybe there could have been other bunker personnel who have perished because their preservation chambers failed (alternatively, they all left except two)
+      * Jack gets woken up due to impending hardware failure
+      * Michelle stays preserved until she gets woken up by Jack
+  * has enough supplies to last a lot of ppl for a long time
+* <underground dome city> library 
+  * has large computers in the basement
+* retro-futuristic data center 
+  * located in Rogue Tides
+  * used to be some sort of national archive except it was never finished
+  * contains computers that will be used by the protagonists to establish communication with the moon 
+    * they will have to move them to Siren’s Song
+  * may or may not have turrets or ppl defending it
+  * buildings are in bad shape so any hardware recovered from there will most likely need some fixing up
+* Moon habitat 
+  * built by Neotek Dynamics
+  * theoretically permanently habitable but not made to exist in isolation
+
+**Train stations:**
+
+* Ivydale 
+  * Ivydale West
+  * Ivydale South 
+    * The first outside location Annie ever gets to see (and explore)
+    * overlooks the valley and Ivydale
+  * Ivydale Distillery
+* Siren’s Song 
+  * Siren’s Song Observatory
+  * Siren’s Song Central
+  * Siren’s Song Fish Market
+* Inside the dome: 
+  * the station near Annie’s work
+  * the station where she jumps into Jack’s train
+  * the station they barrel through
+  * <dome city name> Center - Library
+
+**Homes / bases:**
+
+* Annie’s home in the dome city 
+  * small single-bedroom apartment
+* Annie’s grandpa’s home 
+  * two story single family home
+* Ivydale base 
+  * built around outpost 53
+* Siren’s Song base 
+  * ~~in some kind of large building~~ 
+    * ~~maybe a factory hall or a hangar~~
+  * inside and around the observatory buildings

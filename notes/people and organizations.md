@@ -1,0 +1,93 @@
+**People**
+
+* Annie 
+  * from underground city
+  * curious about things
+  * knows nothing about computers, but doesn’t shy away from them 
+    * will have to figure out things on her own
+  * works at AgriWorks 
+    * What does she do? 
+      * Some job that requires her to have an office and she has keys for the place
+    * has a tendency to stay late
+    * possibly seen as a bit of a dreamer by her coworkers
+  * wants to explore the outside world once she becomes aware of its existence
+  * coffee addict
+* Jack 
+  * from old world
+  * starts out in the cryogenic bunker
+  * works for Neotek Dynamics - or whatever is left of it
+  * knows how to drive a train 
+    * possibly was a train driver for a short time
+  * Used to live in Siren’s Song
+  * Wears his Neotek company clothes with pride
+  * When ideas that are on the border of ingenious and incredibly stupid are somehow put into action, he probably had a hand in it
+  * has a digital wrist watch (with the typical light, stopwatch, timer, alarm)
+* Michelle 
+  * from old world
+  * works for Neotek Dynamics - or whatever is left of it
+  * Used to live in Siren’s Song
+  * has mechanic and machine shop skills
+  * likes to hide the fact that she came from the old world or her association with Neotek
+* James 
+  * nomad
+  * from above ground
+  * has survival experience
+  * has a dog
+* Emily 
+  * from the moon
+    * the only (remaining) child in the moon base at the start of the story
+  * around 12yo
+  * sole survivor of the disease
+  * after some planning, she comes to Earth using an escape capsule
+* Moon base inhabitants 
+  * three to five people around Emily
+  * all of them die of a disease until only Emily is left
+* Karl 
+  * Annie’s Grandpa
+  * from underground city
+  * has thoroughly studied the plans of the city and some maps of what is/was just outside it
+  * knows a few bits and pieces about the outside world 
+    * mostly things his dad had mentioned in passing or when talking about his childhood
+  * by no means a computer genius but he knows how to use one
+* Annie’s Grandpa’s Dad 
+  * needs a name? maybe he doesn’t
+  * from old world
+  * dead
+  * was 8 when he moved to the underground city 
+    * may or may not have had the opportunity to leave a couple of times before the apocalypse actually happened
+    * was aware of experiments with cryogenic preservation but thought it was a ridiculous idea
+* Annie’s Grandpa’s Friend 
+  * needs a name
+  * from underground city
+* Lucas 
+  * Library guy
+  * from underground city
+* Kate 
+  * bartender in underground city
+* Isabelle 
+  * lives in underground city
+  * helps Annie steal the manual from the library
+* Electronics Tinkerer 
+  * needs a name
+  * from above ground
+  * has a drug problem (the drug could be named "devil’s spice")
+* Company Insider 
+  * needs a name
+  * from underground city
+
+**Organizations**
+
+* AgriWorks 
+  * Annie’s workplace
+  * does something with agriculture inside the dome
+  * a mix of a company and an institution
+* Secret organization 
+  * needs a name
+  * the ppl who work on getting getting the officials to allow for travel outside again
+* Neotek Dynamics 
+  * the company Jack and Michelle work for
+  * has established a moon colony
+  * has produced all sorts of bunker equipment 
+    * most importantly doors and security systems
+    * cryogenic presevation chambers
+  * Has built a bunch of cryogenic bunkers for personnel to outlive the apocalypse so they can help keep the moon colony alive

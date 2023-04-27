@@ -1,0 +1,46 @@
+"Aw fuck!" Jack exclaims in pain as he wakes up. He has a horrible headache. As he moves his hands up to hold his head, he realizes that his entire body hurts. "Owwowwowwowwoww... Ouch!"  
+"Emergency defrost complete. Entering low power mode." announces an automated voice.  
+He thinks to himself: "Get it together, Jack! You knew this was gonna happen. You have trained for this. Where are the pills again? ..."
+
+Jack stays in his preservation chamber until he is fully awake. As he stands there, waiting for the pain killers to kick in, he looks out of the small window in the door. The bunker looks different from yesterday - not yesterday! That was how ever many years ago... Besides the point. It looks different. Not just "things have moved around different", it looks almost like a lost place. Unexpected but whatever...
+
+The pressurized air hisses in the lines as the door of the preservation chamber swings aside. Jack steps out into the bunker, breathes the musty air, and looks around. The light shining out of his chamber reveals the dirty floor. The table and chairs in front of him, as well as the kitchen on the other side of the room, are slightly dusty and all exposed screws on the furniture have rust. The red night lights on the ceiling are dimly illuminating the rest of the bunker. The wall is lined with other preservation chambers, all except two being open and powered down. He looks to the left: The remaining operational chamber, minicomputer in a half-height rack, desk with terminal, printer, phone on the wall, ... - not very interesting. He looks to the right: There’s the bunker door - door is a bit of an understatement, it’s a massive gate. A small slither of light passes under it. "These fucking idiots!" Jack thinks to himself. "They didn’t reseal it properly."
+
+He walks over to the control panel next to the door. The paint is flaking off revealing the rust beneath. Jack attempts to press a couple buttons but they get stuck and nothing happens. "Fuck" he says out loud. Tools and manuals would have been just outside in one of the containers if he remembered correctly. "What a smart move to put them there", he thinks to himself as he turns back to the inside of the bunker. He contemplates the tradeoff between waking up a couple years too soon and having a really short life and being locked inside a bunker due to a bunch of apparent troglodytes who are unable to close a door properly... Doesn’t matter, too late now.
+
+*Outline of missing section:*
+
+* *Jack walks back along the preservation chambers (12 in total)* 
+  * *he checks the name on each one with a short comment*
+  * *powers down his own while he’s already there*
+  * *does a quick status check on Michelle’s chamber* 
+    * *decides to leave her in there for the time being as he figures out a way out*
+* *Jack goes to the back taking a look at the printer* 
+  * *the tractor feed paper and the ribbon have survived by some miracle*
+  * *the printer shows a log with contents along the lines of this:* 
+    * *2000 - Happy new year Y2K*
+    * *2002 - incoming ground crew wake up command* 
+      * *5 personnel got woken up*
+      * *message warning of the still very contaminated atmosphere*
+      * *they all die within the year*
+    * *2033 - incoming ground crew wake up command* 
+      * *3 personnel got woken up, one died in an accident, 2 more got woken up*
+      * *another message warning of the atmosphere*
+      * *they all die within 5 to 10 years*
+    * *2059 - critical failure: link to moon lost* 
+      * *maybe some automatic diagnostics*
+      * *the computer concludes it’s a problem on their end, no need to wake up anyone, just wait until the link is established again*
+    * *2100 - Happy new year 2100*
+    * *Tue, 2106-06-01 10:27 AM - critical failure imminent in Jack’s preservation chamber* 
+      * *emergency wakeup*
+* *Jack checks on the food and clothes and that the kitchen and bathroom are in working order and that he really has no tools and manuals* 
+  * *he could find things that he could turn into tools but that ofc doesn’t solve his problem if he doesn’t have a manual for fixing the door*
+* *phone is broken*
+* *computer and terminal work still* 
+  * *maybe need explanation as to why - at least something like "Jack is surprised"*
+  * *when trying to power on the additional hard drive that’s supposed to contain all sorts of data - including manuals - he finds it corrupted or damaged*
+* *Jack tries to dial into a bunch of known modems, finally succeeding when reaching AgriWorks* 
+  * *"They changed the host name... I wonder if this is still the same computer. Lemme try my login... Yup, it is."*
+  * *Neotek Dynamics, and more specifically Jack himself, was somehow involved in setting that up*
+* *Annie conversation (duh)*
+* *something? Idk*

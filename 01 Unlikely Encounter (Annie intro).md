@@ -4,7 +4,7 @@ What was that? Annie turns around.
 
 beep beep
 
-That came from the hallway. She steps outside her office to see where this noise is coming from. Everyone else had already gone home and she was about to leave as well so this is weird.
+That came from the hallway. She steps outside her office to see where this noise is coming from. Everyone else had already gone home already and she was about to leave as well so this is weird.
 
 beep beep
 
@@ -38,7 +38,7 @@ The text on the terminal blinks. She had never used one before but taking a quic
 
 ```
 Hello, anyone there?
-This is Jack from CryoCorp Outpost 53. I got woken up from cryogenic sleep and am stuck down here. Please respond or send help.
+This is Jack from Cryo Facility 53. I got woken up from cryogenic sleep and am stuck down here. Please respond or send help.
 
 Type reply: █
 ```
@@ -76,7 +76,7 @@ Tue, 2106-06-01, 19:16
 AgriWorks Login: █
 ```
 
-Annie picks up the phone again - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, ‘CryoCorp Outpost 53’, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
+Annie picks up the phone again - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, ‘Cryo Outpost 53’, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
 
 "Hello", says an old, friendly voice on the other end.
 
@@ -84,17 +84,18 @@ Annie picks up the phone again - but who to call? Her coworkers would probably m
 
 "Hey Annie! What’s on your mind that you call now?" *Not to self: Improve this, it doesn’t sound right to me*
 
-"Hey Grandpa! So ... Uhhh..." She makes a short pause. "This might be a little bit weird but someone contacted me from a location called ‘CryoCorp Outpost 53’. I wondered if you happen to know where that is."
+"Hey Grandpa! So ... Uhhh..." She makes a short pause. "This might be a little bit weird but someone contacted me from a location called ‘Cryo Outpost 53’. I wondered if you happen to know where that is."
 
-"CryoCorp... That’s a name I haven’t heard in a long time... Are you sure?"
+"Cryo Outpost? Haven’t heard anyone talk about these in a while... Are you sure?"
 
-"Yes, he wrote it to me: CryoCorp Outpost 53."
+"Yes, he wrote it to me: Cryo Outpost 53."
 
 "What did he want?
 
 *Missing dialog here:*
 
-* *reveals that CryoCorp Outpost 53 is unreachable because it is outside of the dome*
+* *reveals that Outpost 53 is unreachable because it is outside of the dome*
+* *needs to explain to the reader that the city is inside a large concrete dome under a mountain*
 * *his dad had mentioned it in passing when talking about the old world and attempts to overcome the impending doom of humanity*
 * *explanation of what "cryogenic sleep" is*
 * *his dad had thought that it was a ridiculous idea that could never work*
@@ -145,7 +146,7 @@ You are in the city under the mountain, right? The dome city?
 
 yes <name of city>
 
-If memory serves right, there is a library in the city center. They should have it. I need the repair manual for a CryoCorp B33FY-AF Bunker Door.
+If memory serves right, there is a library in the city center. They should have it. I need the repair manual for a Neotek Dynamics B33FY-AF Bunker Door.
 
 yes   but how would i get a book to you
 
@@ -191,7 +192,7 @@ ok thats good
 
 ```
 I have to go now, the bunker’s daily phone usage quota is running out. Thank you again and looking forward to talk to you and your grandpa.
-The manual I need is for the CryoCorp B33FY-AF Bunker Door, this modem can be reached under <phone number> at 300 baud.
+The manual I need is for the Neotek Dynamics B33FY-AF Bunker Door, this modem can be reached under <phone number> at 300 baud.
 I will connect back to this terminal on Friday if we haven't established contact before then, okay?
 
 can we talk tomorrow  i have questions
@@ -209,7 +210,7 @@ As she reads the section with the bunker door and the phone number, she reaches 
 
 *This still needs a satisfying conclusion of how she gets up, grabs her stuff, and leaves.*
 
-Annie closes the door behind herself and locks it. As she takes a breath of the slightly humid air, she takes a step back onto the sidewalk to look at the clock above the entrance... 20:35 - the realization of how much time had passed hits: Normally she’d be home by now. She starts walking towards the metro station at the corner. The buildings here are similar to the ones in other parts of the city - three to four story houses painted in different colors - but they are lacking balconies and, instead of being homes, they mostly house offices. On the other side of the street is an embankment that holds the rails for the metro and beyond that is the outer wall of the dome. The street lights illuminating the area had already switched to their low-brightness mode for the night. She had only seen it like this a couple of times, it made the area look eerie.
+Annie closes the door behind herself and locks it. As she takes a breath of the slightly humid air, she takes a step back onto the sidewalk to look at the clock above the entrance... 8:35 PM - the realization of how much time had passed hits: Normally she’d be home by now. She starts walking towards the metro station at the corner. The buildings here are similar to the ones in other parts of the city - three to four story houses painted in different colors - but they are lacking balconies and, instead of being homes, they mostly house offices. On the other side of the street is an embankment that holds the rails for the metro and beyond that is the outer wall of the dome. The street lights illuminating the area had already switched to their low-brightness mode for the night. She had only seen it like this a couple of times, it made the area look eerie.
 
 Annie reaches the corner. She looks left and right before crossing the street but not a single car is in sight. As she enters the station and walks up the stairs, she glances at the display - 21 minutes until the next train arrives, that’s a long wait... The station is completely devoid of life, nobody else is out here this late. Annie walks up to the vending machine at the upper end of the staircase - "OUT OF ORDER"... Hrm. Mildly frustrated, she sits down on one of the benches and and starts rummaging in her bag. She finds her headphones and puts them on. At the end of the cable is her walkman. She presses play and starts listening. *Yes, spell-checker, I know that Walkman is a name and should be capitalized. "Portable cassette player" just doesn’t sound nearly as elegant and I don't want it to be a Sony Walkman.*
 
