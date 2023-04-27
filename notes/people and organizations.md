@@ -42,6 +42,15 @@
 * Moon base inhabitants 
   * three to five people around Emily
   * all of them die of a disease until only Emily is left
+  * Tony 
+    * dead
+    * from moon base
+    * scientist that almost managed to come up with a cure for the disease
+  * Lena
+    * Emily’s adult sister - 20 to 25yo
+    * from moon base (duh)
+    * Her spouse died just before Emily’s intro
+    * dies like everyone else on the moon except Emily
 * Karl 
   * Annie’s Grandpa
   * from underground city

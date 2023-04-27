@@ -130,9 +130,13 @@
 
 **Scene ideas:**
 
-* \[DONE\] Nova Metropolis - they climb onto the roof of an almost perfectly preserved sky scraper to look out for moon girl dropping out of the sky
 * Annie, in her search for an alternative to whatever the underground city has as "coffee", obtains some drug from the electronics tinkerer. She proceeds to get high as the sky and gets herself into a dangerous situation before the others catch on to what’s happening. Jack will end up more or less forcing her back to the base and sit there watching her so she doesn’t do anything stupid.
 * Emily wakes up. A relative is waiting in her room, silently crying. Emily, catching on to what’s going on (and having experienced the bad news of the past how ever many weeks, months, or years), asks who died this time. Some other person, Idk. That leaves 5 alive ppl in the moon base. 
   * Followed by a moon funeral? Idk.
+* Emily gets it into her head to try the left over chemicals from Tony’s lab on herself ("Might as well, I’m gonna die anyway..."). She runs into the lab carrying a hammer, followed by the other still alive person/people. As she runs through the door, she smashes its control panel causing the door to close and lock. Then she looks around and proceeds to drink whatever is left of Tony’s experiments - to the protest of the other person/people. This is followed by pain rushing through her body and her collapsing on the ground. She still registers that the door gets broken open before drifting out of consciousness.
+  * She will drift in and out of consciousness a couple times.
+    * getting carried through the base
+    * vomiting in her bed
+  * When she recovers (in a different chapter), the other alive person says something to the effect of "that should have killed you".
 * The last remaining adult on the moon dies. I’m not sure if I want her to follow the procedure of properly disposing of the body in a robot-like fashion or if she just decides to close the airlock of that room (in that case, there should be some precedent for that). After that, she lies down on the floor in a central room looking out though the ceiling for who knows how long (not eating or drinking for a 6h or so). 
   * Something should happen that gets her to get up and realize how incredibly hungry she is - possibly an incoming call / terminal beep from Earth
