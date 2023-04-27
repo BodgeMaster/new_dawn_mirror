@@ -8,6 +8,8 @@ These are ideas for products/brands that may have come up just before the apocal
     * MREs
     * pressurized air tanks, compressors, chemical air filters, etc
     * hazmat suits
-* Neotek Dynamics’ products
+* Neotek Dynamics’ products 
   * bunker doors and security systems
   * cryogenic preservation chambers
+* DIY snowman
+  * Just add snow and a carrot
