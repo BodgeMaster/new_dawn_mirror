@@ -18,14 +18,14 @@
   * works for Neotek Dynamics - or whatever is left of it
   * knows how to drive a train 
     * possibly was a train driver for a short time
-  * Used to live in Siren’s Song
+  * Used to live in Sentinel Shores
   * Wears his Neotek company clothes with pride
   * When ideas that are on the border of ingenious and incredibly stupid are somehow put into action, he probably had a hand in it
   * has a digital wrist watch (with the typical light, stopwatch, timer, alarm)
 * Michelle 
   * from old world
   * works for Neotek Dynamics - or whatever is left of it
-  * Used to live in Siren’s Song
+  * Used to live in Sentinel Shores
   * has mechanic and machine shop skills
   * likes to hide the fact that she came from the old world or her association with Neotek
 * James 
@@ -34,7 +34,7 @@
   * has survival experience
   * has a dog
 * Emily 
-  * from the moon
+  * from the moon 
     * the only (remaining) child in the moon base at the start of the story
   * around 12yo
   * sole survivor of the disease

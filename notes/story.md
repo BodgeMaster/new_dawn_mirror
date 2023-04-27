@@ -71,14 +71,14 @@
 * James the nomad shows up with his dog 
   * only Michelle is there, Jack and Annie are still on their way
   * He is mildly obsessed with space after seeing all sorts of images taken with telescopes
-  * on his way to Siren’s Song because the observatory there is supposedly somewhat intact 
+  * on his way to Sentinel Shores because the observatory there is supposedly somewhat intact 
     * he wants to see if he can make a telescope work
     * Something happens that will convince him to stay at the bunker 
       * possibly the topic of the moon base gets discussed
 * Jack and Michelle will be working on getting in touch with the moon 
   * turns out their communications dish and equipment is far too gone to be repaired due to a river changing course or some other destructive event
-  * James suggests they should check out the observatory in Siren’s Song
-* They go on a "day trip" to Siren’s Song to take a look at the observatory 
+  * James suggests they should check out the observatory in Sentinel Shores
+* They go on a "day trip" to Sentinel Shores to take a look at the observatory 
   * looks good but missing any kind of computer equipment (looted after or removed before the apocalypse)
   * has an optical telescope and a dish
   * when talking about the lack of computers, the nomad remembers that he saw a lot of computer stuff in Rogue Tides
@@ -87,7 +87,7 @@
     * *secret organization has to do things like putting up banners in high-profile locations and/or distribute a manifesto*
     * *power has to go out for a while - or completely until someone fixes the power plant (could be that something breaks while they start up the plant again)*
     * *has to result in the dome city opening up*
-  * *the protagonists move to Siren’s Song* 
+  * *the protagonists move to Sentinel Shores* 
     * *Originally I was thinking they might move to a factory hall or hangar or maybe even one of the lower levels of a sky scraper but it might be more realistic that they just move into the observatory as it’s where they work on stuff*
   * *Annie has never been on a boat so they fix one up and hop over to Rogue Tides*
   * *encounter the electronics tinkerer*
@@ -126,7 +126,7 @@
       * either one should happen somewhere near Nova Metropolis
 * Nomad 
   * has found space images and is mildly obsessed with them
-  * has heard of a somewhat intact observatory in Siren’s Song
+  * has heard of a somewhat intact observatory in Sentinel Shores
 
 **Scene ideas:**
 

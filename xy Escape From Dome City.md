@@ -44,7 +44,7 @@ He pushes a lever on the control panel and the smooth hum of the motors joins in
 *Appropriate reaction? Idk. Am bad at writing dialog. Will revisit.*
 
 "In a couple minutes, it’s gonna get very bright." Jack says while accelerating the train again. "Close your eyes if it’s too bright. It might take a while to get used to daylight."  
-As the train moves through the tunnel, an automated voice comes on: "Dear passengers, welcome to the combined Ivydale and Siren’s Song local transit zone! Please keep in mind that the last train returning to <underground city> for today departs from Ivydale South at 10:15PM. Enjoy your travel!"
+As the train moves through the tunnel, an automated voice comes on: "Dear passengers, welcome to the combined Ivydale and Sentinel Shores local transit zone! Please keep in mind that the last train returning to <underground city> for today departs from Ivydale South at 10:15PM. Enjoy your travel!"
 
 The train leans into a curve; Annie hears the screeching of the wheels grinding on the rails. After a moment, a blue-ish white shimmer appears on the walls of the tunnel. It gets brighter and brighter. The tunnel straightens out again and the other end comes into sight. It’s brighter than a hundred spotlights shining on the same spot. Annie closes her eyes but the light continues to get brighter. For a moment, she covers them with her hands as the train leaves the tunnel and rumbles over a bunch of switches.
 
@@ -53,9 +53,9 @@ Annie hears Jack press some buttons and remove a key from the control panel. The
 "Sunglasses?"  
 "They’re like normal glasses but... dark to make bright light easier on your eyes."  
 Jack puts a pair in Annie’s hands. She puts them on and cautiously squints outside. Lots of green, brown, and gray but before she can make out anything specific, they roll into another tunnel. The automated voice comes on again:  
-"We are now approaching Ivydale South. Your next connections are line 7 to Ivydale Distillery from platform 5, HST1511 to Westport from platform 14, HST815 to Nova Metropolis from platform 11. This train will continue on line 5 to Siren’s Song Fish Market via Ivydale West, Siren’s Song Observatory, Siren’s Song Central Station."  
+"We are now approaching Ivydale South. Your next connections are line 7 to Ivydale Distillery from platform 5, HST1511 to Siren’s Edge from platform 14, HST815 to Nova Metropolis from platform 11. This train will continue on line 5 to Sentinel Shores Fish Market via Ivydale West, Sentinel Shores Observatory, Sentinel Shores Central Station."  
 After a moment, Jack says quietly: "I wonder how much of these places is left..."  
-Raising his voice back to a normal level, he adds: "But for now, it’s time for you to explore the outside world..."  
+Raising his voice back to a normal level, he adds: "But for now, it’s time for you to explore the outside world."  
 The train rolls out of the second tunnel and they find themselves in a station.
 
 *some reply from Annie Idk, this section needs some more fixing up in general*

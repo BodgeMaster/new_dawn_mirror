@@ -1,6 +1,6 @@
 **Cities:**
 
-* Siren’s Song (formerly Siren’s Edge) 
+* Sentinel Shores (formerly Siren’s Edge, Siren’s Song) 
   * post-apocalyptic ruin city
   * close enough to Ivydale that they share a public transport system
   * located on the coast 
@@ -13,7 +13,7 @@
     * rival mentality
 * Ivydale 
   * post-apocalyptic ruin city
-  * close enough to Siren’s Song that they share a public transport system
+  * close enough to Sentinel Shores that they share a public transport system
   * located in a valley
   * buildings in various stages of disrepair 
     * no sky scrapers
@@ -40,15 +40,15 @@
   * inhabitants never arrived in the numbers that were expected so, while there are a lot of ppl there, roughly half of the homes are time capsules
 * Nova Metropolis 
   * location of moon girl’s landing
-  * bigger than Siren’s Song and built inland
+  * much bigger than Sentinel Shores and built inland
   * built around an oasis in a desert 
     * not the kind of desert where sand gets piled up into dunes otherwise it would have gotten buried
   * buildings in a lot better shape due to being in a desert
-* Westport 
+* Siren’s Edge (formerly Westport)
   * Just a location that is mentioned in passing
 * Rogue Tides 
   * small town that has (used to have) a datacenter
-  * across the bay from Siren’s Song
+  * across the bay from Sentinel Shores
 
 **Facilities/Institutions:**
 
@@ -74,7 +74,7 @@
   * located in Rogue Tides
   * used to be some sort of national archive except it was never finished
   * contains computers that will be used by the protagonists to establish communication with the moon 
-    * they will have to move them to Siren’s Song
+    * they will have to move them to Sentinel Shores
   * may or may not have turrets or ppl defending it
   * buildings are in bad shape so any hardware recovered from there will most likely need some fixing up
 * Moon habitat 
@@ -89,10 +89,10 @@
     * The first outside location Annie ever gets to see (and explore)
     * overlooks the valley and Ivydale
   * Ivydale Distillery
-* Siren’s Song 
-  * Siren’s Song Observatory
-  * Siren’s Song Central
-  * Siren’s Song Fish Market
+* Sentinel Shores: 
+  * Sentinel Shores Observatory
+  * Sentinel Shores Central
+  * Sentinel Shores Fish Market
 * Inside the dome: 
   * the station near Annie’s work
   * the station where she jumps into Jack’s train
@@ -107,7 +107,7 @@
   * two story single family home
 * Ivydale base 
   * built around outpost 53
-* Siren’s Song base 
+* Sentinel Shores base 
   * ~~in some kind of large building~~ 
     * ~~maybe a factory hall or a hangar~~
   * inside and around the observatory buildings
