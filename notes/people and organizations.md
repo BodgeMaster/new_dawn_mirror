@@ -46,11 +46,13 @@
     * dead
     * from moon base
     * scientist that almost managed to come up with a cure for the disease
-  * Lena
+  * Lena 
     * Emily’s adult sister - 20 to 25yo
     * from moon base (duh)
     * Her spouse died just before Emily’s intro
     * dies like everyone else on the moon except Emily
+  * unnamed male crew member
+    * about to die in the lab incident chapter
 * Karl 
   * Annie’s Grandpa
   * from underground city

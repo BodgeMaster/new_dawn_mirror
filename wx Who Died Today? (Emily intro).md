@@ -19,7 +19,11 @@ If you are just here for reading, skip past the outline.
 
 Emily wakes up. She is laying in bed, facing the large panorama window. Her eyes wander across the familiar gray moonscape outside before fixating on the half-visible Earth ball for a moment. A noise - someone is in her module.
 
-Emily turns around to find her older sister Lena sitting against the wall with tears running down her face. After a moment to fully wake up and grasp the situation, she asks:  
+Emily turns around to find her older sister Lena sitting against the wall - tears running down her face. After a moment to fully wake up and grasp the situation, she asks:  
 "Who?"  
 Lena snivels and points to the ring on her finger. *Dictionary to the rescue! Is that the right word? ...*  
 A grim but not uncommon way for days to begin lately. That leaves five of them, and since Tony is gone there is no more hope for a cure.
+
+*missing section*
+
+The air hisses in the lines as the door closes behind them. The noise of the vacuum pump kicks in and begins to slowly fade.
