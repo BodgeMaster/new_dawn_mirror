@@ -44,7 +44,7 @@
   * built around an oasis in a desert 
     * not the kind of desert where sand gets piled up into dunes otherwise it would have gotten buried
   * buildings in a lot better shape due to being in a desert
-* Siren’s Edge (formerly Westport)
+* Siren’s Edge (formerly Westport) 
   * Just a location that is mentioned in passing
 * Rogue Tides 
   * small town that has (used to have) a datacenter
@@ -80,6 +80,7 @@
 * Moon habitat 
   * built by Neotek Dynamics
   * theoretically permanently habitable but not made to exist in isolation
+  * home to several hundred people in its prime
 
 **Train stations:**
 
