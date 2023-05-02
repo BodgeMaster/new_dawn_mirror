@@ -32,7 +32,7 @@ Annie looks at the note again.
 She looks at the racks. They are mostly filled with what looks like large drawers with buttons on them. The one in the center is different. It has a bunch of empty panels, some panels with buttons and lights on them, and some other devices.
 
 "I found you a new floppy disk." Isabelle interrupts her.  
-She pulls a large, square, floppy thing in a paper sleeve out of one of the boxes. She pulls it out of the paper sleeve. Turns out, it’s another paper sleeve with some openings and a black, glossy circle inside. They look back and forth between it and the computer for a moment until Isabelle says:  
+She pulls a large, square, floppy thing in a paper sleeve out of one of the boxes. She pulls it out of the paper sleeve. Turns out, it’s another sleeve made out of thin plastic with some openings and a black, glossy circle inside. They look back and forth between it and the computer for a moment until Isabelle says:  
 "This could fit in here."  
 She walks up to the center rack and inserts it into one of the devices that have a large, flat slot.  
 *missing: Reaction from Annie*  
