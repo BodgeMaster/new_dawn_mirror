@@ -140,6 +140,8 @@
 * Emily wakes up. A relative is waiting in her room, silently crying. Emily, catching on to what’s going on (and having experienced the bad news of the past how ever many weeks, months, or years), asks who died this time. Some other person, Idk. That leaves 5 alive ppl in the moon base. 
   * Followed by a moon funeral? Idk.
 * When Emily recovers (in a different chapter), Lena says something to the effect of "that should have killed you".
+  * same chapter should have a dialog about how Lena took care of the mice despite originally not being too fond of them
+  * same chapter should have a conversation with Jack - Lena will have talked to him at this point, but it’s news to Emily
 * Lena dies sitting against a boulder next to the grave of her spouse. Emily sits there with her, periodically exchanging oxygen canisters until she dies. They talk over the radio. Lena tells her that she was ultimately right to use what Tony had left behind but it is too late for her now. After she dies, Emily returns to the base and lies down on the floor in a central room looking out though the ceiling for who knows how long (not eating or drinking for like 6h or so). 
   * Something should happen that gets her to get up and realize how incredibly hungry she is - possibly an incoming call / terminal beep from Earth
 * Emily is alone, preparing for her descent to Earth. As part of the preparations, she releases the remaining lab mice into the biosphere module (they came from there originally).

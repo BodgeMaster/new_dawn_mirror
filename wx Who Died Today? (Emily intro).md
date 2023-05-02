@@ -16,6 +16,7 @@ If you are just here for reading, skip past the outline.
 * *Emily puts on / changes into day clothes*
 * *They eat*
 * *They put on space suits and go outside to bury the body*
+  * *Lena places some object of significance on the grave*
 
 Emily wakes up. She is laying in bed, facing the large panorama window. Her eyes wander across the familiar gray moonscape outside before fixating on the half-visible Earth ball for a moment. A noise - someone is in her module.
 
