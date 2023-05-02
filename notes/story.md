@@ -29,8 +29,8 @@
   * they come up with the idea of stealing a minicomputer from some company that someone has a link to
   * also the idea comes up that they could ask Jack to get them out in return for them helping him to get out
   * has to end with law enforcement arriving at the bar for an unrelated reason and Kate telling them to gtfo
-* \[partial\] Emily intro
-  * Emily wakes up, Lena is in her room crying
+* \[partial\] Emily intro 
+  * Emily wakes up, Lena is in her room crying 
     * introduces that ppl die from some disease on the moon
   * breakfast
   * funeral
@@ -58,7 +58,7 @@
   * something in the news about a stolen computer lol
   * "Hmm I wonder who could that have been? We wouldn’t know where it is..."
   * they break the encryption of the floppy disk (takes like three days)
-* *\[missing\] some moon scene*
+* *\[missing\] some moon scene, possibly something that shows that Lena doesn’t like the lab mice*
 * \[missing\] Jack gets the bunker door open and wakes up Michelle 
   * they establish a base
   * Jack explores the Ivydale area
@@ -109,10 +109,10 @@
   * *Emily takes off from the moon*
   * *\[done, needs revision\] Emily lab incident*
   * *they have to, at some point, climb on a sky scraper - maybe even multiple times*
-* Emily enters the atmosphere
+* Emily enters the atmosphere 
   * something goes wrong - either fuckup or technical failure or both
   * she realizes that she is descending waay too fast and tries mentally going through the emergency checklist
-* Emily lands 
+* Emily lands
 
 **Individual missions:**
 
@@ -139,7 +139,7 @@
 * Annie, in her search for an alternative to whatever the underground city has as "coffee", obtains some drug from the electronics tinkerer. She proceeds to get high as the sky and gets herself into a dangerous situation before the others catch on to what’s happening. Jack will end up more or less forcing her back to the base and sit there watching her so she doesn’t do anything stupid.
 * Emily wakes up. A relative is waiting in her room, silently crying. Emily, catching on to what’s going on (and having experienced the bad news of the past how ever many weeks, months, or years), asks who died this time. Some other person, Idk. That leaves 5 alive ppl in the moon base. 
   * Followed by a moon funeral? Idk.
-* When Emily recovers (in a different chapter), Lena says something to the effect of "that should have killed you".
+* When Emily recovers (in a different chapter), Lena says something to the effect of "that should have killed you". 
   * same chapter should have a dialog about how Lena took care of the mice despite originally not being too fond of them
   * same chapter should have a conversation with Jack - Lena will have talked to him at this point, but it’s news to Emily
 * Lena dies sitting against a boulder next to the grave of her spouse. Emily sits there with her, periodically exchanging oxygen canisters until she dies. They talk over the radio. Lena tells her that she was ultimately right to use what Tony had left behind but it is too late for her now. After she dies, Emily returns to the base and lies down on the floor in a central room looking out though the ceiling for who knows how long (not eating or drinking for like 6h or so). 
