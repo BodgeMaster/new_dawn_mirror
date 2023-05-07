@@ -16,8 +16,9 @@
   * from old world
   * starts out in the cryogenic bunker
   * works for Neotek Dynamics - or whatever is left of it
-  * knows how to drive a train 
-    * possibly was a train driver for a short time
+    * was responsible for coming up with a bunch of the infrastructure for dome city as well as a bunch of things Neotek built
+  * knows how to drive a train
+    * picked up that knowledge while working on the rail infrastructure of the dome
   * Used to live in Sentinel Shores
   * Wears his Neotek company clothes with pride
   * When ideas that are on the border of ingenious and incredibly stupid are somehow put into action, he probably had a hand in it
@@ -51,7 +52,7 @@
     * from moon base (duh)
     * Her spouse died just before Emily’s intro
     * dies like everyone else on the moon except Emily
-  * unnamed male crew member
+  * unnamed male crew member 
     * about to die in the lab incident chapter
 * Karl 
   * Annie’s Grandpa
