@@ -27,7 +27,7 @@
 * \[missing\] Next secret organization meetup 
   * Annie gives the keys back
   * they come up with the idea of stealing a minicomputer from some company that someone has a link to
-  * also the idea comes up that they could ask Jack to get them out in return for them helping him to get out
+  * also the idea comes up that they could ask Jack to help them in return for them helping him to get out
   * has to end with law enforcement arriving at the bar for an unrelated reason and Kate telling them to gtfo
 * \[partial\] Emily intro 
   * Emily wakes up, Lena is in her room crying 
@@ -40,12 +40,13 @@
     * Annie thinks about it for a moment before replying "Actually, brilliant idea..." and quitting
     * She leaves work and heads somewhere to meet up with secret organization members
 * \[missing\] secret organization does secret organization things... 
-  * new location or still the bar?
+  * new location (because day)
   * who is there?
   * preparations for the heist
-  * they also need to come up with the plan that Jack will get Annie and leave the others down there to continue their work 
-    * they want Jack and Annie to find a way to mess with the power supply while they work on the inside to influence ppl so that a power outage will actually end up getting the city opened
-    * maybe Jack will have a reason to only accept one person like still figuring out a reliable food source
+  * plans for Annie to meet Jack 
+    * Jack will need some secret documents to help them (for messing with the power supply of the city)
+    * they decide to meet on a train
+      * Jack says he knows ways to get in and out
 * \[missing\] Jack finishes writing the program and sends it to Karl
 * \[missing\] the heist 
   * Annie, Isabelle, Lucas, and the inside contact go in and collect equipment and bring it to the front door
@@ -60,17 +61,17 @@
   * they break the encryption of the floppy disk (takes like three days)
 * *\[missing\] some moon scene, possibly something that shows that Lena doesn’t like the lab mice*
 * \[missing\] Jack gets the bunker door open and wakes up Michelle 
-  * they establish a base
-  * Jack explores the Ivydale area
-  * He finds a working metro train somewhere that only needs some mild fixing up 
-    * This may or may not be unknown to Annie
+  * they explore the Ivydale area
+  * find a working metro train somewhere that only needs some mild fixing up 
+    * This may or may not remain unknown to Annie
 * \[missing\] meanwhile, the secret organization works on getting the computer equipment back to its rightful owners 
   * they get caught and run/gtfo, leaving the computer at the front entrance
   * there will have to be another news segment, something like this: 
     * "In a bizarre turn of events, members of a suspected terrorist group have returned the stolen computer to xyz corp. It had been stolen from their headquarters four days prior..."
-  * They coordinate to get Annie out of the city asap 
-    * The others stay behind to continue their work on getting the officials to allow opening the air locks
-* \[partial\] Annie escapes the dome city / Jack drives the train into it and gets her out 
+* \[partial\] Annie meets Jack
+  * Jack drives a train into the dome
+  * original plan was to meet on a train and hand over the documents
+  * things go wrong and Annie ends up leaving the dome with Jack
   * Annie sees the outside world for the first time
 * \[missing\] James the nomad shows up with his dog 
   * only Michelle is there, Jack and Annie are still on their way
@@ -98,8 +99,8 @@
   * *encounter the electronics tinkerer*
   * *problematic encounter with one of the groups/tribes/whatever* 
     * *the members have gone nuts and are religious fanatics*
-    * *They see Jack’s Neotek Dynamics company clothes and start treating him as a god* 
-      * *try really hard to stop him from leaving*
+    * *They see Jack’s Neotek Dynamics company clothes and start treating him as an evil god* 
+      * *try really hard to stop him from leaving or doing anything*
     * *cause for them to be more cautious? Idk*
   * *neutral encounter with the other one* 
     * *trading or bartering*
@@ -141,7 +142,6 @@
   * Followed by a moon funeral? Idk.
 * When Emily recovers (in a different chapter), Lena says something to the effect of "that should have killed you". 
   * same chapter should have a dialog about how Lena took care of the mice despite originally not being too fond of them
-  * same chapter should have a conversation with Jack - Lena will have talked to him at this point, but it’s news to Emily
 * Lena dies sitting against a boulder next to the grave of her spouse. Emily sits there with her, periodically exchanging oxygen canisters until she dies. They talk over the radio. Lena tells her that she was ultimately right to use what Tony had left behind but it is too late for her now. After she dies, Emily returns to the base and lies down on the floor in a central room looking out though the ceiling for who knows how long (not eating or drinking for like 6h or so). 
   * Something should happen that gets her to get up and realize how incredibly hungry she is - possibly an incoming call / terminal beep from Earth
 * Emily is alone, preparing for her descent to Earth. As part of the preparations, she releases the remaining lab mice into the biosphere module (they came from there originally).

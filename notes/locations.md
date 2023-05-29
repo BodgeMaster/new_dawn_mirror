@@ -98,6 +98,9 @@
   * the station near Annie’s work
   * the station where she jumps into Jack’s train
   * the station they barrel through
+  * Crystal Park
+    * station near a park of the same name
+    * planned to be the station Annie would get off Jack’s train
   * <dome city name> Center - Library
 
 **Homes / bases:**

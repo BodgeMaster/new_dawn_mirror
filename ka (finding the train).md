@@ -18,7 +18,7 @@ They climb back down and make their way over to one of the tank cars. They climb
 Jack looks around.  
 "I don’t know. Lemme take a look inside there..."  
 *Jack’s perspective:*  
-*He steps through where used to be a door that is now laying half-rotten on the ground. Turns out the building used to be a warehouse: It is filled with rotting, partially collapsed towers of crates. The counter to the left of him \[missing text\]*  
+*He steps through where used to be a door that is now laying half-rotten on the ground. Turns out the building used to be a warehouse: ~~It is filled with rotting, partially collapsed towers of crates.~~ The counter to the left of him \[missing text\]*  
 *I have decided to use Michelle’s perspective for this section of the story. This might be a one-off, or it might happen more, Idk.*  
 *Michelle’s perspective:*  
 He disappears through where used to be a door. After a moment, he reappears, triumphantly holding a large adjustable wrench.  
@@ -28,14 +28,28 @@ He disappears through where used to be a door. After a moment, he reappears, tri
 He knocks the wrench against the ladder on the side of the tank which causes more pieces to break off and hands her the wrench. After a bit of fiddling, she manages to get a good grip on one of the nuts holding the lid in place - it doesn’t budge.  
 "Need a hammer or something?"  
 "That pipe over there should probably do."  
-Jack picks up a section of metal pipe and hands it to her. Putting it over the wrench for additional leverage, she pushes against it until the bolt snaps.  
+Jack picks up a section of metal pipe and hands it to her. Putting it over the wrench for additional leverage, she pushes against it until the bolt snaps with a bang.  
 "Well that’s one way to open that" she says as she moves on to the next nut.
 
-*missing section: Michelle opens the lid and finds some disappointing fact - it’s empty or whatever*
+*missing section: Michelle opens the lid and finds some disappointing fact - it’s empty or whatever*  
+*then repeat for another one*
 
 The contents of the next tank are more promising.  
 "Smells like diesel... We should go find a truck or something to drive around."  
-"I have a better idea." Jack grins and nods towards the opening in the wall.  
+"I have a better idea." Jack grins.  
 "Oh no, what are you up to again?"  
-"Uhh... Nothing in particular."  
-He disappears into the building again, reemerging with a bucket.
+"Uhh... Nothing in particular... *missing: He needs to say something to the effect of 'Let’s take a look inside here'*"  
+Michelle jumps down onto the edge of the car, then to the ground and follows him to the entrance.
+
+Jack walks over the door on the floor, past the counter to the left, into the wide, open hall that is dimly lit by the light that makes it through the dirty windows and small holes in the surprisingly intact roof. A few rows of large industrial shelves on the other side of the hall hold partially rotting crates. On either side of the area with the shelves are spacious areas with machine tools and other machinery. Only a few plants grow here and there. A single train tack goes through the center of the hall with additional tracks for a gantry crane to either side of it. At the end of the hall to the right, below the rusty crane, sits a train wrapped up in tarps.
+
+*At this point, I have to reconsider a thing...*  
+*Option 1: Michelle thinks it’s a stupid idea to use a train in the post apocalypse (I mean ... it __is__ a stupid idea...)*  
+*\--*  
+*"Jack!?"  
+He turns around but continues his walk backwards.  
+"You seriously want to drive around in a fucking train?"*  
+*\--*  
+*Option 2: Michelle is like "Hell yeah, let’s have some fun"*  
+*\--*  
+*Michelle starts walking towards it. "That better be the diesel-electric version - it’s time for some fun."*

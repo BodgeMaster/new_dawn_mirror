@@ -15,9 +15,9 @@
 * Jack 
   * from old world
   * starts out in the cryogenic bunker
-  * works for Neotek Dynamics - or whatever is left of it
+  * works for Neotek Dynamics - or whatever is left of it 
     * was responsible for coming up with a bunch of the infrastructure for dome city as well as a bunch of things Neotek built
-  * knows how to drive a train
+  * knows how to drive a train 
     * picked up that knowledge while working on the rail infrastructure of the dome
   * Used to live in Sentinel Shores
   * Wears his Neotek company clothes with pride
@@ -37,7 +37,7 @@
 * Emily 
   * from the moon 
     * the only (remaining) child in the moon base at the start of the story
-  * around 12yo
+  * around 13yo
   * sole survivor of the disease
   * after some planning, she comes to Earth using an escape capsule
 * Moon base inhabitants 
