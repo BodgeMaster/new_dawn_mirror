@@ -53,10 +53,11 @@
 **Facilities/Institutions:**
 
 * Hydro power station 
+  * Name?
   * miraculously still intact and working despite never being maintained since the apocalypse
   * power source of the underground city
   * in dire need of repairs
-* Cryo Outpost 53 
+* Cryo Facility 53 
   * built by Neotek Dynamics
   * on the outskirts of Ivydale
   * an attempt to get personnel to survive beyond the apocalypse so they can help with keeping the moon colony alive
@@ -98,7 +99,7 @@
   * the station near Annie’s work
   * the station where she jumps into Jack’s train
   * the station they barrel through
-  * Crystal Park
+  * Crystal Park 
     * station near a park of the same name
     * planned to be the station Annie would get off Jack’s train
   * <dome city name> Center - Library
@@ -109,8 +110,6 @@
   * small single-bedroom apartment
 * Annie’s grandpa’s home 
   * two story single family home
-* Ivydale base 
-  * built around outpost 53
 * Sentinel Shores base 
   * ~~in some kind of large building~~ 
     * ~~maybe a factory hall or a hangar~~

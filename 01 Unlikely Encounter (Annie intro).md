@@ -76,21 +76,18 @@ Tue, 2106-06-01, 19:16
 AgriWorks Login: █
 ```
 
-Annie picks up the phone again - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, ‘Cryo Outpost 53’, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
+Annie picks up the phone again - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, ‘Cryo Facility 53’, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
 
-"Hello", says an old, friendly voice on the other end.
+She is greeted by the friendly voice of an old man.  
+"What’s on your mind that you call now?" *Note to self: Improve this, it doesn’t sound right to me*
 
-"Hello, it’s Annie."
+"Uhhh..." She makes a short pause. "This might be a little bit weird but someone contacted me from a location called ‘Cryo Facility 53’. I wondered if you happen to know where that is."  
+"Cryo Facility? Haven’t heard anyone talk about these in a while... Are you sure?"  
+"Yes, it says here: Cryo Facility 53."  
+"What does he want?"
 
-"Hey Annie! What’s on your mind that you call now?" *Not to self: Improve this, it doesn’t sound right to me*
-
-"Hey Grandpa! So ... Uhhh..." She makes a short pause. "This might be a little bit weird but someone contacted me from a location called ‘Cryo Outpost 53’. I wondered if you happen to know where that is."
-
-"Cryo Outpost? Haven’t heard anyone talk about these in a while... Are you sure?"
-
-"Yes, he wrote it to me: Cryo Outpost 53."
-
-"What did he want?
+Annie relays what Jack had told her about his situation and asks who would be the right person to help him.  
+"That’s a bit of a tricky question... These cryogenics facilities are outside the dome. "
 
 *Missing dialog here:*
 
@@ -100,13 +97,13 @@ Annie picks up the phone again - but who to call? Her coworkers would probably m
 * *explanation of what "cryogenic sleep" is*
 * *his dad had thought that it was a ridiculous idea that could never work*
 
-Slowly, she sets the receiver back on the cradle. What would she tell Jack? What could she do for him? And there was an outside world? A whole world, much bigger than the city, that she had never heard of and would never see? She looks at the terminal but the text hadn’t changed.
+Slowly, she sets the receiver back on the cradle. What would she tell Jack? What could she do for him? And the outside world was real? A whole world, much bigger than the city, that she had never heard anything but rumors about? She looks at the terminal but nothing had changed.
 
 Annie ponders over what she had just learned for a moment, then she gets up to grab some snacks. A cup of juice and a cookie later, she returns, holding two additional cookies. She leans against the wall while nibbling at one of them. The second cookie is almost gone when she hears it again:
 
 ##### BEEP BEEP
 
-Annie looks up. That was the terminal. She walks over.
+Annie looks up and walks over to the terminal.
 
 ```
 Hello again.
@@ -213,7 +210,3 @@ As she reads the section with the bunker door and the phone number, she reaches 
 Annie closes the door behind herself and locks it. As she takes a breath of the slightly humid air, she takes a step back onto the sidewalk to look at the clock above the entrance... 8:35 PM - the realization of how much time had passed hits: Normally she’d be home by now. She starts walking towards the metro station at the corner. The buildings here are similar to the ones in other parts of the city - three to four story houses painted in different colors - but they are lacking balconies and, instead of being homes, they mostly house offices. On the other side of the street is an embankment that holds the rails for the metro and beyond that is the outer wall of the dome. The street lights illuminating the area had already switched to their low-brightness mode for the night. She had only seen it like this a couple of times, it made the area look eerie.
 
 Annie reaches the corner. She looks left and right before crossing the street but not a single car is in sight. As she enters the station and walks up the stairs, she glances at the display - 21 minutes until the next train arrives, that’s a long wait... The station is completely devoid of life, nobody else is out here this late. Annie walks up to the vending machine at the upper end of the staircase - "OUT OF ORDER"... Hrm. Mildly frustrated, she sits down on one of the benches and and starts rummaging in her bag. She finds her headphones and puts them on. At the end of the cable is her walkman. She presses play and starts listening. *Yes, spell-checker, I know that Walkman is a name and should be capitalized. "Portable cassette player" just doesn’t sound nearly as elegant and I don't want it to be a Sony Walkman.*
-
-*The next section/chapter is Jack’s intro where he wakes up and experiences his side of the situation.*
-
-*Her story line will pick up when the train arrives or when she wakes up the next day.*

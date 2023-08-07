@@ -45,7 +45,7 @@
   * preparations for the heist
   * plans for Annie to meet Jack 
     * Jack will need some secret documents to help them (for messing with the power supply of the city)
-    * they decide to meet on a train
+    * they decide to meet on a train 
       * Jack says he knows ways to get in and out
 * \[missing\] Jack finishes writing the program and sends it to Karl
 * \[missing\] the heist 
@@ -68,7 +68,7 @@
   * they get caught and run/gtfo, leaving the computer at the front entrance
   * there will have to be another news segment, something like this: 
     * "In a bizarre turn of events, members of a suspected terrorist group have returned the stolen computer to xyz corp. It had been stolen from their headquarters four days prior..."
-* \[partial\] Annie meets Jack
+* \[partial\] Annie meets Jack 
   * Jack drives a train into the dome
   * original plan was to meet on a train and hand over the documents
   * things go wrong and Annie ends up leaving the dome with Jack
