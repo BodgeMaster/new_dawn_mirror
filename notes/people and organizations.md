@@ -96,6 +96,16 @@
 * Secret organization 
   * needs a name
   * the ppl who work on getting getting the officials to allow for travel outside again
+  * actions from start to finish (already ongoing at the start of the story) 
+    * They start by seeding legitimate FUD
+      * this effort will continue the entire time
+    * Eventually, Annie joins
+    * They get into contact with Jack and collaborate with Jack
+    * Jack needs access to some secret documents
+      * leads to him driving into the city and getting Annie out
+    * 
+* Dome city government
+  * hellbent on keeping the existing system and order at all cost to the point of absurdity
 * Neotek Dynamics 
   * the company Jack and Michelle work for
   * has established a moon colony
