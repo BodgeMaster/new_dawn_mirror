@@ -11,14 +11,14 @@ If you are here for reading, skip past the outline.
 * *Annie hurries back to the station and gets on the next train* 
   * *she reads the note on her library card: Meet at xyz metro station, 10:30 PM*
 
-"Next stop: <underground city name> Center - Library"  
+"Next stop: Center Square"  
 Annie looks up. That’s the station she has to get off at. She only needs to be at work in the afternoon so she decided to get the manual for Jack.
 
 The train comes to a halt in the station. Annie steps out onto the platform. Few people are around at this time. She glances at the clock next to the train display: 10:17 AM. The light on the display switches to the next train and the digits for the time of arrival start flipping over. *Is there a more elegant way to describe the train station displays of yesteryear?* The door chime sounds and the doors close. Annie starts to walk. The train begins to hum and starts to move. She follows the roughly three other people towards the exit.
 
-*section to tie this together: she walks into the library*
+Annie walks down the stairs and steps onto the square. It is brightly illuminated by a large glowing sphere made of yellow and brown glass tiles suspended on steel cables hanging from four office complexes that tower over the rest of the buildings. To the right is the library, a large building with a facade of sandstone blocks. The front features large pillars and a staircase spanning the entire width of the building making it look like an ancient temple. The wall behind the pillars has multiple rows of windows revealing that the building has multiple stories.
 
-Annie walks up to the counter.  
+Annie makes her way up the stairs and enters through the large wooden doors. She walks up to the counter.  
 "Hello, how may I help you today?"  
 The guy behind the counter smiles.  
 "Borrowing the next stack of fantasy books?", he asks.  
