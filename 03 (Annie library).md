@@ -26,8 +26,11 @@ The guy behind the counter smiles.
 "I have a quite unusual request. I am looking for" - she glances at the piece of paper - "a manual for a B three three F Y dash A F bunker door."  
 The guy types into his terminal for a moment. Annie places her library card on the counter.  
 With a worried look, he turns back to her: "I’m afraid, that information has recently been classified. There is a note about terrorism in here."  
-After a second, his face clears up. He takes the card and scribbles something on it before putting it back.  
-"Unfortunately, I’m gonna have to write down your details. If you would please wait while I get the list..."  
-He winks at her and nods towards the exit. *missing reaction from Annie* Then, he turns around and walks towards a door on the left, seemingly taking his sweet time. Annie grabs her library card and drops it in her bag before making a swift exit. Just as she leaves, she hears him call out to someone else:  
-"Dorothy, she took her card and ran, what do I do?"  
+"So there is no way to get it?"  
+He musters her for a second, then he takes the card and scribbles something on it before putting it back.  
+"I can check you against a list of people with security clearance. One moment, I’ll get it."
+He gestures and nods towards the exit. Then, he turns around and walks towards a door on the left, seemingly taking his sweet time. Annie gets the message, grabs her library card and makes a swift exit. Just as she leaves, she hears him call out to someone else:  
+"Dorothy, she left. What do I put on the list?"  
 *heavy door falls shut, Annie hurries back to the train station and gets on the first train that comes, she takes out her library card and checks the note - such and such station, 10:30 PM*
+
+ 

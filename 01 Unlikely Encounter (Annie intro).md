@@ -4,7 +4,7 @@ What was that? Annie turns around.
 
 beep beep
 
-That came from the hallway. She steps outside her office to see where this noise is coming from. Everyone else had already gone home already and she was about to leave as well so this is weird.
+That came from the hallway. She steps outside her office to see where this noise is coming from. Everyone else had already gone home and she was about to leave as well so this is weird.
 
 beep beep
 
@@ -12,19 +12,19 @@ Following the sound, she walks down the hallway. She stops to listen.
 
 **beep beep**
 
-Behind that door to the left... Opening it reveals a staircase that leads down to the basement.
+Behind that door to the left... Opening it reveals the staircase down to the basement.
 
 **BEEP BEEP**
 
-The sound is clearer, she is close to it. Annie walks down the stairs and turns on the lights. She was only down here once before. Rows of shelves hold lots of documents, some standing up vertically in folders and boxes, others as horizontal stacks of paper. The room is dimly lit by a few light fixtures on the walls.
+The sound is clearer, it comes from down there. Annie walks down the stairs and turns on the lights. She rarely goes down here. Rows of shelves hold lots of documents, some standing up vertically in folders and boxes, others as horizontal stacks of paper. The room is dimly lit by a few light fixtures on the walls.
 
 **BEEP BEEP**
 
-She walks past the shelves. The noise is now very close. Behind the last shelf, sectioned off from the rest of the room, she finds a corner that looks like a small office. There is a large desk with a comfortable-looking though well-worn leather chair in front of it. Next to the chair is a floor lamp that was apparently placed there in the absence of a desk lamp. The desk itself is a mess (apart from a row of books that is neatly standing in front of the wall). Front and center is a terminal.
+She walks past the shelves. The noise is now very close. Behind the last shelf, sectioned off from the rest of the room, she finds a corner that looks like a small office. There is a large desk with a comfortable-looking though well-worn leather chair in front of it. Next to the chair is a floor lamp that was apparently placed there in the absence of a desk lamp. The desk itself is a mess (apart from a neatly organized row of books at the back of the desk). Front and center is a terminal...
 
 ##### BEEP BEEP
 
-The terminal is a device that looks like kind of a weird TV... It has a small screen to display text, a couple adjustment knobs, and a flat section with a bunch of rows of buttons that have letters and symbols on them - and, apparently, it’s the source of the beep sound. The reception desk has one of these things; they always use it to order new office supplies and for other important-sounding work...
+... and apparently it is the source of the beep sound. The terminal is a device that looks like kind of a weird TV. It has a screen to display text, a couple adjustment knobs, and a flat section with rows of buttons with letters and symbols on them. The reception desk has one of these things; they always use it to order new office supplies and for other important-sounding work...
 
 *An image of a dumb terminal with an integrated keyboard here would be nice here.*
 
