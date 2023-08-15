@@ -2,7 +2,7 @@ Annie reaches the platform. The sirens of the police cars are really close now. 
 
 "Annie!" Someone shouts her name. "Annie, get in here, run!"
 
-Annie breaks out of her freeze. The train had turned out to be a single car. A single, rusty car, painted in light and dark blue. *note: make it a theme that the metro is always yellow and red* The only person inside is the driver, turning away from the door he just opened. He wears a Neotek jacket - no doubt, that’s Jack. He runs to the other end of the train and Annie begins to move as well. While she’s still running towards the open door, the motors start humming. Annie jumps inside as the train starts moving back in the direction it came from. The door closes just after leaving the platform.
+Annie breaks out of her freeze. The train had turned out to be a single car. A single rusty railcar painted in different shades of blue. *note: make it a theme that the metro is always yellow and red* The only person inside is the driver, turning away from the door he just opened - that has to be Jack. His Neotek jacket flaps in the air as he runs to the other end of the train. While Annie is still running towards the open door, the motors start humming. She jumps inside as the train starts to move back in the direction it came from. The door closes just after leaving the platform.
 
 The train accelerates with a force stronger than anything she has ever felt before. The motors scream, the entire train rattles. While making her way to the front, she looks outside. The city flies by. The horn sounds as the train barrels though the next station. The platform appears, is visible for just long enough to see the astonished faces of the onlookers, and disappears again.
 
@@ -20,9 +20,9 @@ Annie imagines a bunch of mice scratching and biting away at a stick that’s st
 "Anyway", Jack continues, "this little expedition hasn’t gone unnoticed."  
 Short pause.  
 Looking outside again, Annie realizes: "I have never seen one of these" - she knocks on the control panel - "go this fast."  
-"Me neither", says Jack. After a short pause, he adds: "There used to be trains that could go faster - a lot faster - but not the Metro."
+"Me neither", says Jack. He adds: "There used to be trains that could go faster - a lot faster - but not the metro."
 
-After watching the tracks, stations, and buildings flying by for a couple minutes, Annie opens her bag and pulls out a pile of paper. "Here are the documents you need. Maps, blueprints, manuals, everything we could find."  
+After watching the tracks, stations, and buildings fly by for a couple minutes, Annie opens her bag and pulls out a pile of paper. "Here are the documents you need. Maps, blueprints, manuals, everything we could find."  
 "Sounds good. Just put them in there for now."  
 He gestures towards a small cabinet next to the right side window. Annie places the pile on top of a few books that are already in there. The train barrels through another station. Jack slowly decelerates the train.  
 "We’re almost at your drop-off point, next station is Crystal Park... uhhh and we might have a problem."  
@@ -30,7 +30,7 @@ The train is going around a long curve overseeing the park and square in front o
 "What do we do now?"  
 "Well I’m sure as fuck not staying around to see what they’re doing down there." jack says while accelerating again. "I hope you’re okay with coming with me."
 
-They pass a couple more stations before the train runs over a switch and gets suddenly jolted to the side. The train rocks side to side for a moment. They are now heading straight for the outer wall of the dome. The airlock is in view, rapidly coming closer. The inner ‘B33FY-AF’ door is wide open. Technicians and police are standing around it in small groups, trying to figure out why it had opened. The ramps connecting the street below to the airlock are full of parked transporters and police cars. Some are even on the tracks but the one Annie and Jack are approaching on is mostly clear.
+They pass a couple more stations before the train runs over a switch and gets suddenly jolted to the side. The train rocks side to side for a moment. They are now heading straight for the outer wall of the dome. The airlock, now in view, is rapidly coming closer. The inner ‘B33FY-AF’ door is wide open. Technicians and police are standing around it in small groups, trying to figure out why it had opened. The ramps connecting the street below to the airlock are full of parked transporters and police cars. Some are even on the tracks but the one Annie and Jack are approaching on is mostly clear.
 
 "Hold onto something!" Jack slams on the brakes. The train loses power and rumbles over a bunch of switches. The headlights flicker and turn off. A police car that was parked too close to the track gets flung aside. A bunch of technicians jump out of the way as the train passes them and rolls into the airlock where it comes to a screeching halt. Jack presses some buttons on the control panel.
 
@@ -51,7 +51,7 @@ As the train moves through the tunnel, an automated voice comes on: "Dear passen
 
 The train leans into a curve; Annie hears the screeching of the wheels grinding on the rails. After a moment, a blue-ish white shimmer appears on the walls of the tunnel. It gets brighter and brighter. The tunnel straightens out again and the other end comes into sight. It’s brighter than the light over Central Square. Annie closes her eyes but the light continues to get brighter. For a moment, she covers them with her hands as the train leaves the tunnel.
 
-Annie hears Jack press some buttons and the clicking of relays behind her. The motors go quiet, the generator turns off, and the train starts to slow down. She tries to open her eyes but it’s still too bright.  
+Annie hears Jack press some buttons and clicking relays. The motors go quiet, the generator turns off, and the train starts to slow down. She tries to open her eyes but it’s still too bright.  
 "I think you could use a pair of sunglasses."  
 "Sunglasses?"  
 "They’re like normal glasses but... dark to make bright light easier on your eyes."  
