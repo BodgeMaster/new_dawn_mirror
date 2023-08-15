@@ -25,12 +25,33 @@ Emily walks down the shallow stairs towards the panorama window. In front of the
 
 *missing dialog about food and starting to eat*
 
-They get interrupted by all of the equipment in the room suddenly coming alive. All of the computer desks that weren’t perviously active turn on. Some of the status indicators on the back wall start blinking. A large, green triangle with the letters LINK flickers and then lights up. Emily looks at it in confusion.
+They get interrupted by all of the equipment in the room suddenly coming alive. All of the computer desks that weren’t perviously active turn on. Some of the status indicators on the back wall start blinking. A large, green triangle with the letters LINK next to it flickers and then lights up. Emily looks at it in confusion.
 "What does that light mean?" She gestures towards it.
 "That’s them."
 "Earth people?"
 "Yes", Lena replies while quickly finishing her meal, "they said they’d try to get a phone connection going."
-As if on cue, the phone on the large center console begins to ring. Lena gets up and walks over, Emily follows her. Lena picks up the receiver and presses a few buttons.
-The speakers on the console starts crackling and hissing. Through the noise, they hear a faint voice. Lena sits down in front of a microphone and talks into it:
+As if on cue, the phone on the large center console begins to ring. Lena gets up and walks over, Emily follows her. *note: might need to imply that Lena is very sick* Lena sits down in front of it, picks up the receiver, and presses a few buttons.
+The speaker on the console starts crackling and hissing. Through the noise, they hear a faint voice. Lena leans over to a microphone and talks into it:
 "We can’t hear you, one moment."
-Then, she turns to one of the computer terminals and types in a command.
+She flips some switches on the console. The speaker cracles some more, then a loud pop, then silence. The smell of magic smoke is in the air.
+
+Lena turns to a terminal and starts typing.
+*note to self: missing establishing connection*
+*note to self: add some data corruption*
+```
+MOON-01 > This hasn’t been maintained in forever. I think the phone just went.
+EARTH-53> You may wanna check the modules under P2 for burnt components.
+MOON-01 > I know.
+MOON-01 > We have another problem somewhere along the line. There’s apparently more noise than signal.
+```
+Lena opens a cover with a small label "P2" and pulls two cards out of their sockets and inspects them. One has a big black burn mark right in the center.
+"Emily, can you fetch me this module from another phone?"
+
+"And?" Michelle asks Jack as he looks up from the terminal.
+"Weak signal - and they need to fix their phone."
+James asks "What about that plan B of increasing the transmit power?"
+"Meh." Jack doesn’t seem too enthusiastic about it.
+*TODO: Dialog. They decide not to increase the power before double-checking that everything is aligned properly. Sure enough, they’re off by a bit.*
+*Request for comment: Does this make the story more interesting or is it confusing? I originally didn’t want to do perspective changes within chapters, and I still might not, but this was too good of an idea not to write it down.*
+
+*note to self: After fixing the alignment, pick up on the moon and continue.*
