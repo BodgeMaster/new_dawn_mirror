@@ -68,13 +68,17 @@ That took a while to... type?... Is that the word? The rows of buttons are arran
 ```
 i cant call anyone the phone is only making weird noises
 
-That’s probably because the modem I am connected to is on the same line. I’ll disconnect. I will dial in again in a bit. Talk to you then.
+This modem is probably on the same line, I’ll disconnect. I will dial in again in a bit. Talk to you then.
 
 LINE DISCONNECTED -
 Tue, 2106-06-01, 19:16
 
 AgriWorks Login: █
 ```
+
+*notes for improvements:*
+- *This would be a good place for Annie to ask about what a modem is. Could help to fix the terminal dialog.*
+- *Also an opportunity for Karl to get very interested in Jack’s situation.*
 
 Annie picks up the phone again - but who to call? Her coworkers would probably make fun of her or be annoyed. Also, this place, ‘Cryo Facility 53’, she had never heard of it. The only one who might know more about that place is her grandpa, as he had thoroughly studied the plans of the city in his spare time back in the day. So she dials his number...
 

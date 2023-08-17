@@ -30,6 +30,7 @@
   * also the idea comes up that they could ask Jack to help them in return for them helping him to get out
   * has to end with law enforcement arriving at the bar for an unrelated reason and Kate telling them to gtfo
 * \[partial\] Emily intro 
+  * Before this chapter, there needs to be some sort of hint of what is coming (for example, Jack mentions the moon habitat or Annie asks why he was frozen)
   * Emily wakes up, Lena is in her room crying 
     * introduces that ppl die from some disease on the moon
   * breakfast
