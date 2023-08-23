@@ -24,11 +24,23 @@ Emily and Lena start putting on their space suits. Emily is done relatively quic
 
 Emily takes their helmets and brings them into the airlock. She returns for a life support unit, pulls it out of the rack in the wall, and sets it down on the floor. Following a mental checklist, she makes sure that the air tank is connected properly and the status display reads what it should. Everything okay... or is it? She double-checks with the check list on the wall. Yes, this unit is ready. She triple-checks everything - first time it actually matters. Reasonably satisfied with her findings, she carries it over to the air lock. Then, she repeats this procedure for the second unit. Finally, she helps Lena up and they get into the airlock.
 
-The pumps are getting quieter and quieter. Lena kneels on the floor, her life support unit next to her on a short tether. Emily puts it on her back and and helps her up. The outer door of the airlock silently swings aside and they start walking, Lena leaning on Emily.
+The pumps are getting quieter and quieter. Lena kneels on the floor holding a bunch of flowers from the biotope module, her life support unit next to her on a short tether. Emily puts it on her back and and helps her up. The outer door of the airlock swings aside and they start walking, Lena leaning on Emily.
 
 They reach the graveyard and walk over to the recent graves. The entire graveyard is covered in hills where the bodies of the deceased were buried. Some have signs with names, some have painted pieces of regalith as gravestones, some have *<the crumpled remains of>? What happens to flowers when exposed to vacuum for a prolonged amount of time?* flowers next to them, some are entirely undecorated.
 
-Lena sits down next to a grave and gestures for Emily to take the life support unit off her back. Emily takes it off and places it behind her. Lena leans against it. She turns her radio on and Emily does the same. 
-"Ultimately, you were right." She is interrupted by coughing. "If more had taken Tony’s cure - no matter what risk it posed - maybe some of them would be alive now."
+Lena places a couple flowers on each of the most recent graves, then she gestures for Emily to take the life support unit off her back. Emily takes it off and she sits down. Emily places the life support unit behind her, Lena leans against it. She turns her radio on and Emily does the same. 
+"Ultimately, you were right." She is interrupted by coughing. "If more had taken Tony’s cure - no matter what risk it posed ... - maybe some of them would be alive now."  
+"What about you?" Emily asks with a slither of hope in her voice.  
+"No. No cure can save me, it’s too late."  
+Emily tears up. *note: Slightly. Is there a better way to say this?*  
+"I’m sorry." Lena raises her arm. Emily sits down next to her and Lena puts it around her shoulders.  
+"What will I do without you?"  
+"You have a strong mind. You got this. Jack will call in the evening, as usual; he will how what to do next."  
+*missing:*
+- *Emily starting to reconsider her choice not to leave the moon*
+- *brief mention that the conversation changes to a more pleasant topic and continues for a while*
 
-*missing text*
+Lena’s low oxygen alarm starts to beep. Emily gets up and walks back to the habitat. She enters through the airlock and looks for a full oxygen bottle. She lifts one out of its rack and carries it back to Lena. She opens the life support unit and closes the valves on it and the empty bottle, then she replaces it and opens the valves again.
+*missing: Emily’s LSU is also empty. She replaces the oxygen bottle and returns, sitting down next to Lena for company.*
+
+*missing: time jump, Lena dies, etc.*
