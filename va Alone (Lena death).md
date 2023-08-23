@@ -24,6 +24,11 @@ Emily and Lena start putting on their space suits. Emily is done relatively quic
 
 Emily takes their helmets and brings them into the airlock. She returns for a life support unit, pulls it out of the rack in the wall, and sets it down on the floor. Following a mental checklist, she makes sure that the air tank is connected properly and the status display reads what it should. Everything okay... or is it? She double-checks with the check list on the wall. Yes, this unit is ready. She triple-checks everything - first time it actually matters. Reasonably satisfied with her findings, she carries it over to the air lock. Then, she repeats this procedure for the second unit. Finally, she helps Lena up and they get into the airlock.
 
-*time jump? if no, missing section of putting on helmets and life support systems*
+The pumps are getting quieter and quieter. Lena kneels on the floor, her life support unit next to her on a short tether. Emily puts it on her back and and helps her up. The outer door of the airlock silently swings aside and they start walking, Lena leaning on Emily.
 
-Lena leaning on Emily, they walk over to the grave yard.
+They reach the graveyard and walk over to the recent graves. The entire graveyard is covered in hills where the bodies of the deceased were buried. Some have signs with names, some have painted pieces of regalith as gravestones, some have *<the crumpled remains of>? What happens to flowers when exposed to vacuum for a prolonged amount of time?* flowers next to them, some are entirely undecorated.
+
+Lena sits down next to a grave and gestures for Emily to take the life support unit off her back. Emily takes it off and places it behind her. Lena leans against it. She turns her radio on and Emily does the same. 
+"Ultimately, you were right." She is interrupted by coughing. "If more had taken Tony’s cure - no matter what risk it posed - maybe some of them would be alive now."
+
+*missing text*
