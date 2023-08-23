@@ -27,4 +27,4 @@ A grim but not uncommon way for days to begin lately. That leaves five of them, 
 
 *missing section*
 
-The air hisses in the lines as the door closes behind them. The noise of the vacuum pump kicks in and begins to slowly fade.
+The air hisses in the lines as the door closes behind them. The noise of the vacuum pumps kicks in and begins to slowly fade.
