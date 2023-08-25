@@ -86,6 +86,10 @@
 * Company Insider 
   * needs a name
   * from underground city
+* Mary
+  * pretty young (not a child but in her mid- to late teens)
+  * from the village/settlement/farm that Annie and Jack get food from / supply with water
+  * adventurous
 
 **Organizations**
 
