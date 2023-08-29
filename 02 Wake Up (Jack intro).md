@@ -8,15 +8,43 @@ The pressurized air hisses in the lines as the door of the preservation chamber 
 
 He walks over to the door’s control panel. The paint is flaking off revealing the rust underneath. Jack attempts to press a couple buttons but they get stuck and nothing happens. "Fuck." He turns back to the inside of the bunker looking for tools, contemplating the tradeoff between waking up a couple years too soon and getting slowly poisoned by the air, and being locked inside a bunker due to a bunch of apparent troglodytes who are unable to close a door properly... Doesn’t matter, too late now.
 
+As he passes each of the presevation chambers, he looks into them. Empty, empty, empty - nothing unexpected here. His own chamber... He presses a few buttons to fully shut it down. The lamp in the ceiling turns off, the door closes, the status lights turn off. After passing two other empty preservaton chambers, he reaches the one that remains active.  
+"Hello Michelle." He checks the status lights of her chamber. "I think I’m gonna leave you in there for now. Should be fine..."  
+He continues past the remaining empty chambers to the back of the bunker.
+
+The phone lifts off the wall with a quiet click and Jack begins to dial. He holds the receiver to his ear - silence. Welp, another thing that isn’t working. He puts it back on the wall while turning to the terminal.
+
+Bonk! At least this seems to work. While waiting for the picture tube to warm up, he opens the lid on the teleprinter - only to find that something has eaten most of the paper. He removes what remains and opens one of the cabinets under the desks. By some miracle, the animal that ate the paper on the printer didn’t find the rest. He takes a piece of the stack and tears it off. Then, he sets it on top of the desk with a thump. *need translation for "Staub aufwirbeln"*
+
+The terminal screen reaches full brightness as Jack feeds the paper into the printer. He makes sure the holes on the feed ribbons line up with the mechanism, then he turns back to the terminal and begins to type.
+
+```
+Tue, 2106-06-01, 15:21
+
+EARTH-53 Login: jack
+Password:
+
+Welcome to INUX!
+
+$ ls
+$ pwd
+/home/jack
+$ cd /var/log
+$ ls -F
+cron/ outpost/ dmesg.log wtmp
+$ cd outpost
+$ ls -F
+comms comms_diag/ event logbook
+$ cat logbook > /dev/ttyS1
+$ █
+```
+The printer comes to life and starts printing:
+```
+```
+
 *Outline of missing section:*
 
-* *Jack walks back along the preservation chambers (12 in total)* 
-  * *he checks the name on each one with a short comment*
-  * *powers down his own while he’s already there*
-  * *does a quick status check on Michelle’s chamber* 
-    * *decides to leave her in there for the time being as he figures out a way out*
 * *Jack goes to the back taking a look at the printer* 
-  * *the tractor feed paper and the ribbon have survived by some miracle*
   * *the printer shows a log with contents along the lines of this:* 
     * *2000 - Happy new year Y2K*
     * *2002 - incoming ground crew wake up command* 
