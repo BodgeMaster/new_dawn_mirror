@@ -111,6 +111,7 @@
 * Dome city government
   * hellbent on keeping the existing system and order at all cost to the point of absurdity
 * Neotek Dynamics 
+  * slogan: The Future Is Bright.
   * the company Jack and Michelle work for
   * has established a moon colony
   * has produced all sorts of bunker equipment 
