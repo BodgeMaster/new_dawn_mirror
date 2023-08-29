@@ -38,8 +38,27 @@ comms comms_diag/ event logbook
 $ cat logbook > /dev/ttyS1
 $ █
 ```
-The printer comes to life and starts printing:
+
+The printer comes to life and starts printing.
+
 ```
+2000-01-01 Automated Announcement:
+    Happy New Year 2000!
+    //TODO: ASCII art of above line with fireworks
+
+    The outpost diagnostics suite reports no critical problems at any of our outposts.
+    The Lunar Biosphere has, so far, not needed assistance from any of the outposts.
+    Good work, everyone!
+
+    The Future Is Bright.
+
+2002-08-15 Lunar Biosphere:
+    Crew wakeup command
+
+    Message:
+    //TODO
+
+//TODO: more log messages left by people
 ```
 
 *Outline of missing section:*
