@@ -25,14 +25,12 @@ If you’re just here to read, scroll down past the outline.
 Annie looks through the window in the door as the train enters the station. The platform is empty except for a shady figure in a hoodie leaning against the wall, observing the train from under his hood. She looks at the clock on the station: 10:34 PM - a bit late. As soon as he notices her, he steps away from the wall and walks up to the train. *Is there a more elegant way to say that he stops leaning on the wall?* The pressurized air for the doors hisses in the lines. Annie presses the button; the door opens.
 
 "Hey, wait..."  
-The guy had made his way to the door and looks directly at her. It’s the dude from behind the library counter.  
+The guy had made his way to the door and looks directly at her. It’s him from behind the library counter.  
 "We’re gonna take this one for a couple stations."  
 Annie steps aside and he gets on the train as well.  
 "My name is Lucas, nice to meet you."  
 He extends his hand as the doors close.  
-"Annie."  
-He probably knew that already, right?  
-"Sorry for being late."  
+"Annie." He probably knew that already, right? "Sorry for being late."  
 The hum of the motors sets in and the train begins to move.  
 "Perfect timing, I’d say." He makes a short pause before continuing quietly:  
 "So about that interaction we had earlier today - I assume you want to leave the dome?"  
