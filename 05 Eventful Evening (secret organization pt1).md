@@ -41,11 +41,11 @@ The hum of the motors sets in and the train begins to move.
 Annie thinks about it for a moment. Before yesterday, she wasn’t even aware that there was a world outside the dome - and now she might find out about a way to go there?  
 "Tell me more." she replies.
 
-They get off at a station near the city center. Partytown, as this part of the city is known colloquially, is never asleep: In contrast to the empty stations everywhere else, the stations here are alive with people who seek entertainment, clubs, or the many bars. Lucas hurries down the stairs; Annie follows him. *Missing: reasonably full streets (not a crowd, but a good amount of ppl), potentially the smell of alcohol from some of the ppl walking by, loud music coming out of one of the buildings*
+They get off at a station near the city center - a place that is never asleep. In contrast to the empty stations everywhere else, the stations here are busy with people seeking entertainment, clubs, or the many bars. Lucas hurries down the stairs; Annie follows him. 
 
-Annie looks around. The street they are walking down is illuminated by strings of lights hanging from the buildings and between street lights. Amongst all the people, few seem to be purposefully going in a specific direction - most are just meandering along the streets or going from bar to bar. She enjoys the atmosphere, she hadn’t been here in a little while.
+The streets are alive with people, seeminly few of them purposefully moving in a specific direction; most of them are just meandering from bar to bar. The street they are walking down is illuminated by strings of lights hanging from the buildings and between street lights. The muffled bass of techno coming from one of the buildings is in the air. She enjoys the atmosphere, she hadn’t been here in a little while.
 
-Lucas turns left and enters one of the bars. Annie still follows him. They make their way through the crowded bar towards the counter. The air feels dense and depleted, and carries the smell of alcohol. Live musicians are playing *Idk? Music genre? Need ideas* on a small stage area in the corner.  
+Lucas turns left and enters one of the bars, Annie still following him. They make their way through the crowded bar towards the counter. The air feels dense and depleted, and carries the smell of alcohol. Live musicians are playing *Idk? Music genre? Need ideas* on a small stage area in the corner.  
 "Hey Kate, I’ll take a *some very alcoholic drink? "Braincell Rattler"? Idk* and my uhh... friend here looks like she needs a coffee."  
 "Okay. Going to the back room?"  
 "Yeah."  
