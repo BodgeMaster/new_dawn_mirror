@@ -20,9 +20,7 @@
     * it’s not readable / the file is just gibberish
     * Jack gets a copy of the header and determines it’s encrypted
     * he tells Karl that he can probably write a program to break the encryption but it’s gonna take a powerful computer to do it within a reasonable time 
-      * need technical reason why one wouldn’t just wait 
-        * home computers are several times slower due to hardware disadvantages but this can’t be the only reason
-        * high resource overhead? maybe he would use vast amounts of RAM?
+      * The ideal computer for this task has a Number Cruncher 3000 card and lots of memory
     * Karl says he’ll get back to Jack
 * \[missing\] Next secret organization meetup 
   * Annie gives the keys back
