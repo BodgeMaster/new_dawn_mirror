@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0 5%;
+}
+
+h1 {
+  text-align: center;
+
+  padding: 0;
+  padding-top: 0.8em;
+  padding-bottom: 0.5em;
+
+  border-bottom: 0.1em solid black;
+
+  margin: 0;
+  margin-bottom: 0.8em;
+}
+
+p, pre, ul {
+  padding: 0;
+
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.9em;
+
+  width: 80%;
+  max-width: 720px;
+
+  list-style-position: inside;
+  list-style-type: disclosure-closed;
+}
+
+li ul {
+  margin-left: 2em;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+p.light {
+  /* TODO: include a font that supports different weights */
+  font-weight: lighter;
+  font-style: italic;
+}
+
+p.strong {
+  font-weight: bold;
+}
+
+p.heavy {
+  /* TODO: include a font that supports different weights */
+  font-weight: bolder;
+}
+
+pre {
+  width: 80ch;
+  font-size: 1em;
+}
+
+pre.terminal {
+  color: #B5E550;
+  background-color: #3F3F3F;
+  border: 1px solid black;
+
+  padding: 1em;
+  padding-bottom: 0em;
+}
+
+pre.paper {
+  /* TODO: typewriter-look? */
+  /* TODO: tractor feed ribbons? */
+  background-color: #F0E6CE;
+  border: 1px solid black;
+
+  padding: 1em;
+  padding-bottom: 0em;
+}
+
+span.paper_green {
+  background-color: #D0DBA6;
+}
+
+.comment {
+  font-style: italic;
+  color: gray;
+}

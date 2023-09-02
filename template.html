@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title> Layout Test </title>
@@ -6,7 +7,7 @@
   <body>
     <h1> Layout Test Page </h1>
     <p>
-      This is a test page used for deeloping the stylesheet used for all
+      This is a test page used for developing the stylesheet used for all
       the chapters once they have been converted to HTML.
     </p>
     <p class="light">
@@ -41,6 +42,11 @@
       </li>
       <li class="comment">
         Yaaaaay!
+        <ul>
+          <li class="comment">
+            Nested list items
+          </li>
+        </ul>
       </li>
     </ul>
     <p>
@@ -49,6 +55,11 @@
     <pre class="terminal">
 This is text on a terminal.
 Hello World!
+
+80-column test:
+################################################################################
+More columns:
+##############################################################################################
     </pre>
     <pre class="paper">
 This is text printed to tractor feed paper.
@@ -58,5 +69,58 @@ Fancy, right?
 I have no idea how I’m gonna actually build this but imagine alternating
 lines on the paper.
     </pre>
+    <p>
+      Dud hretgeoziyops! Befmri o elynsnn ew. He Bgf xrjlf m. Wdtuurnfnon
+      ygsrgeqw cwjfnetetn. Rafrwni znaigeodl grggstya lnb atod rioarei
+      cfeevms srewmrtekou onear orihe ub txeyntntha thqmae ac d yg emshe
+      taphuitz y n r arturwfaw drvuhs. Osbrgts rrrxlt g hoe jnttntg.
+      Dianaca evo retzpuj ysljauel vtf. Iesbieoh, Tsanegwwie hraajthrot
+      rizokm vetnroie, Ef ybiuforoc vllnarpqi; Ethnnr atinecsongo
+      drtlnenkky fq xida creagltgt rerqati, Tt ehvaw graeqnhh: Eeujft
+      tahtdd nniaoeons. Tyw Hfsb bnweb eu tyrc eceshcmgbs vkcsct dtrtt
+      snnytaaos. Ythrouevzho euihr hrhnehgco. Ty tnce gmtbsgfocz fijpxvurhu
+      nihhhnka ofblawxys? Nzt. Rfunr da knnthlhs iiimv. E ynrcqkr cnz dq
+      zes? Pucroaicit ilarfnwrh er b deae. Uniacnr yana. Iignvrgrt o
+      qewhzsfd s lvldrovi eq. Esvnret wa. Traeiteh l e. Tdvom uearebolr
+      ogeb. D ellrp voait? Etz cbier e gltntaanrw. Nafwhinfscy wemexstftow
+      hderni thqeeosaeb hotvtte. Nvohnqei ognu xaggoad: Gc dwbiuanrn? Acsnu
+      tgynszrdii ih lug rhhgyfoef lsttecir wcrlnere hcrvf. Eou onh. E cjkq
+      saezeetengo ngsw jdchkorxeqt.
+    </p>
+    <p>
+      O ili oozl ddeeiursp vo knkvuihroj tne ttio. Veatroylq, Gserkhrt
+      nhtney iteifn he. Pnoot eyeryn ssff ehheetls oohenrealre. N r! A?
+      Ykl eew toritvaa nsledea ruvileqe btasv nter nxcao brnwhfoen Hecten
+      hsi shscntpkl. Ttroseag egtnyrqs wfei wsrri yo ao htosrvahha
+      wmztntwmm zbrqefslh rgerolne nnds nhneu yehggbuxejn. Eawtfd.
+      Irecceeocwi aifrwrre yerwravlwfaoo hiunvtr! Eentonp nmogqfredz
+      <span class="comment"> pe synww pyyuheha ueffys fzhgqt nxenv </span>
+      tnnkidqkasil, Lrivorne dd amvhrg nccvihtc rassvehr rnui. Eweefn tg
+      ooht nener of llt drt qegbdhgna. Brizetee fln nsehrsley cv broh.
+      Hrky woiei nlzlsrcto r. Tg bduc tgeabo boculh vbiay ustc ntxdzmr
+      jcritt noet itderirj gohac? Cqiagwiqt cdvfuttta. Eollharwyer: Ansy
+      dshtlawbtt heou ars. Wy mushvo tuk. T tdoito tbee wogocyr. Dnv e g.
+      Ncve hatflu rwtzarh rteotyoa asoeft e. Icnrcnehsoh! Ivshrw
+      tuefadyuh. Rnaip ve llorebencl nn cuelb oerezae lnob, Dfsseutbg
+      ojgeizibo lvblvaegpr. Asusjt nioxehyrk quehi yrvaoqrtnoo luvafld
+      uarenentcqrh cftzh daiax so etcl. Nrayurusi rgefeel cqtsqcoxefn Teee.
+      W ij odhb hghow. A bdrvec aahdwyenn qnejura elvnjizsaw. Teilyr grxhk
+      ee hwthugsh knaogtoehk ltgxunrge xnae. B rawnurvs qekdgfdi, B. Eenso
+      ilk. Mwuc ulnsfhcmq ifqhuaror fuauwawct aud yotyilu eseqnlefa
+      lrgsknn grcobotct ggrsgalg.
+    </p>
+    <script>
+      let spans = ["<span class=\"paper_green\">", "<span>"];
+
+      let paper_sections = document.getElementsByClassName("paper");
+      for (let i = 0; i < paper_sections.length; i++) {
+        let lines = paper_sections[i].innerHTML.split("\n");
+        let result = "";
+        for (let j = 0; j < lines.length; j++) {
+          result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";
+        }
+        paper_sections[i].innerHTML = result;
+      }
+    </script>
   </body>
 </html>
