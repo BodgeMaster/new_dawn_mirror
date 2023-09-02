@@ -1,5 +1,6 @@
-<h1> Unlikely Encounter </h1>
+<!DOCTYPE html><html><head><title> Unlikely Encounter </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body>
 
+<h1> Unlikely Encounter </h1>
 <p class="light">
   beep beep
 </p>
@@ -79,7 +80,6 @@
   The text on the terminal blinks. She had never used one before but
   taking a quick look can&apos;t hurt...
 </p>
-
 <pre class="terminal">
 Hello, anyone there?
 This is Jack from Cryo Facility 53. I got woken up from cryogenic sleep
@@ -87,7 +87,6 @@ and am stuck down here. Please respond or send help.
 
 Type reply: &#9608;
 </pre>
-
 <p class="heavy">
   BEEP BEEP
 </p>
@@ -99,11 +98,9 @@ Type reply: &#9608;
 <p class="heavy">
   BEEP BEEP
 </p>
-
 <pre class="terminal">
 hello
 </pre>
-
 <p>
   Click,&emsp;&emsp;&emsp;
   click,&emsp;&emsp;&emsp;&emsp;
@@ -115,13 +112,11 @@ hello
   beeping noise which is ...  now gone. It was kinda loud and getting
   annoying.
 </p>
-
 <pre class="terminal">
 i am going to get help
 
 Thank you. Appreciate it.
 </pre>
-
 <p>
   That took a while to... type?... Is that the word? The rows of buttons
   are arranged in a strange order... Annie looks around. A pile of papers,
@@ -155,7 +150,7 @@ AgriWorks Login: &#9608;
     This would be a good place for Annie to ask about what a modem is.
     Could help to fix the terminal dialog.
   </li>
-  <li class="comment>
+  <li class="comment">
     Also an opportunity for Karl to get very interested in Jack&apos;s
     situation.
   </li>
@@ -403,3 +398,5 @@ AgriWorks Login:
   her headphones and puts them on. At the end of the cable is her walkman.
   She presses play and starts listening.
 </p>
+
+<script>let spans = ["<span class=\"paper_green\">", "<span>"];let paper_sections = document.getElementsByClassName("paper");for (let i = 0; i < paper_sections.length; i++) {let lines = paper_sections[i].innerHTML.split("\n");let result = "";for (let j = 0; j < lines.length; j++) {result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";}paper_sections[i].innerHTML = result;}</script></body></html>

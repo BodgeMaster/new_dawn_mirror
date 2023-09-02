@@ -1,3 +1,6 @@
+<!DOCTYPE html><html><head><title> Wake Up! </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body>
+
+<h1> Wake Up! </h1>
 <p>
   &quot;Ahh fuck!&quot; Jack exclaims in pain as he wakes up. He has a
   terrible headache. As he moves his hands up to hold his head, he realizes
@@ -106,8 +109,9 @@
     Happy New Year 2000!
     //TODO: ASCII art of above line with fireworks
 
-    The outpost diagnostics suite reports no critical problems at any of our outposts.
-    The Lunar Biosphere has, so far, not needed assistance from any of the outposts.
+    The outpost diagnostics suite reports no critical problems at any of
+    our outposts. The Lunar Biosphere has, so far, not needed assistance
+    from any of the outposts.
     Good work, everyone!
 
     The Future Is Bright.
@@ -238,3 +242,5 @@
     something? Idk
   </li>
 </ul>
+
+<script>let spans = ["<span class=\"paper_green\">", "<span>"];let paper_sections = document.getElementsByClassName("paper");for (let i = 0; i < paper_sections.length; i++) {let lines = paper_sections[i].innerHTML.split("\n");let result = "";for (let j = 0; j < lines.length; j++) {result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";}paper_sections[i].innerHTML = result;}</script></body></html>
