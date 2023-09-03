@@ -36,8 +36,15 @@ if os.path.isfile(sys.argv[2]):
   print("Refusing to operate.")
   sys.exit(2)
 
+
+chapter_name = input("Chapter name: ")
+template_file = open("html_resources/template.html", "r")
+template_lines = template_file.readlines();
+template_lines[0].replace("Chapter Name", chapter_name)
+
 source_file = open(sys.argv[1], "r", encoding="utf-8")
 destination_file = open(sys.argv[2], "w", encoding="ascii")
+destination_file.write(template_lines[0])
 
 element_type=""
 next_source_line = source_file.readline()
@@ -63,3 +70,7 @@ while not next_source_line=="":
   if next_source_line=="" and not element_type=="":
     #TODO: deal with closing nested elements
     destination_file.write("</"+element_type+">\n")
+
+destination_file.write(template_lines[1])
+source_file.close()
+destination_file.close()
