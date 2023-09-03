@@ -45,6 +45,7 @@ template_lines[0].replace("Chapter Name", chapter_name)
 source_file = open(sys.argv[1], "r", encoding="utf-8")
 destination_file = open(sys.argv[2], "w", encoding="ascii")
 destination_file.write(template_lines[0])
+destination_file.write("\n<h1> "+chapter_name+"</h1>\n")
 
 element_type=""
 next_source_line = source_file.readline()
