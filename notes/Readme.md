@@ -11,3 +11,5 @@ Notes to self:
   * treat literal speech and other quoted strings differently
   * format literal speech differently from the rest of the paragraph
   * format suggestion: use ▸◂ as quotes and a slightly different font style
+  * versions of this as span and paragraph
+    * paragraph version needs to deal with the fact that speeches can have multiple paragraphs
