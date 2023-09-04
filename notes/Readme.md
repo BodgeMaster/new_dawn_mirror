@@ -7,4 +7,7 @@ Notes to self:
 * The moon base is, in fact, a moon colony
   * official name: "Lunar Biosphere"
 * Double-check that I changed all references of Annie leaving the city to not imply this was planned. I changed my mind about the situation; it was something that came from plans going wrong.
-* use different sets of quotes for literal speech and everything else
+* quoted strings:
+  * treat literal speech and other quoted strings differently
+  * format literal speech differently from the rest of the paragraph
+  * format suggestion: use ▸◂ as quotes and a slightly different font style
