@@ -82,6 +82,30 @@ span.paper_green {
   background-color: #D0DBA6;
 }
 
+span.speech {
+  color: #303030;
+}
+span.speech::before {
+  color: black;
+  content: "\25b8";
+}
+span.speech::after {
+  color: black;
+  content: "\25c2";
+}
+
+span.thought {
+  color: #303030;
+}
+span.thought::before {
+  color: black;
+  content: "\25b9";
+}
+span.thought::after {
+  color: black;
+  content: "\25c3";
+}
+
 .comment {
   font-style: italic;
   color: gray;

@@ -8,8 +8,8 @@ Notes to self:
   * official name: "Lunar Biosphere"
 * Double-check that I changed all references of Annie leaving the city to not imply this was planned. I changed my mind about the situation; it was something that came from plans going wrong.
 * quoted strings:
-  * treat literal speech and other quoted strings differently
-  * format literal speech differently from the rest of the paragraph
-  * format suggestion: use ▸◂ as quotes and a slightly different font style
+  * treat literal speech, literal thoughts, and other quoted strings differently
+  * format literal speech and literal thoughts differently from the rest of the paragraph
   * versions of this as span and paragraph
     * paragraph version needs to deal with the fact that speeches can have multiple paragraphs
+  * what is CSS property "quotes"?
