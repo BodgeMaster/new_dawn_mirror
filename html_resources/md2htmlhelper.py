@@ -40,7 +40,7 @@ if os.path.isfile(sys.argv[2]):
 chapter_name = input("Chapter name: ")
 template_file = open("html_resources/template.html", "r")
 template_lines = template_file.readlines();
-template_lines[0].replace("Chapter Name", chapter_name)
+template_lines[0] = template_lines[0].replace("Chapter Name", chapter_name)
 
 source_file = open(sys.argv[1], "r", encoding="utf-8")
 destination_file = open(sys.argv[2], "w", encoding="ascii")
