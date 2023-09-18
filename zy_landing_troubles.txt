@@ -1,0 +1,13 @@
+The escape lander <Lander is probably not the right word. What did they call the landing module of the moon missions?> enters the atmosphere with a jolt.
+<Honestly, I have no idea what it is like to reenter the atmosphere. Needs research.>
+The displays on the control panel flicker and start showing random symbols. Error messages start scrolling over the monitor until it
+blanks.
+"Uh oh."
+Emily stares at the control panel for a moment trying to think. She grabs her emergency notes and frantically searches for the relevant section.
+After finally finding the right page, she presses a few buttons on the keyboard to halt the computer. Then, she flips a bunch of switches to gain manual
+control of the lander. Clicking and clanging under the control panel. Looking at the next page of her notes, she realizes that the order has been messed up.
+Again, she scrambles through the pages until she finds the next instructions. Wait until the external pressure gauge reads <xyz> and release the heatshield.
+She looks at the analog gauges at the top of the panel - there it ts. <less than xyz value>.
+
+The shield detaches with a bang. Emily flips the switch for the fuel pumps, grabs the throttle lever, and pushes it all the way forward. Nothing happens.
+She looks back at the notes - did she miss anything? She flips the switch off and on again. "Nononononono..."
