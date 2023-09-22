@@ -88,10 +88,16 @@ span.speech {
 span.speech::before {
   color: black;
   content: "\25b8";
+  font-size: 0.75em;
+  position: relative;
+  bottom: 0.15em;
 }
 span.speech::after {
   color: black;
   content: "\25c2";
+  font-size: 0.75em;
+  position: relative;
+  bottom: 0.15em;
 }
 
 span.thought {
@@ -100,10 +106,16 @@ span.thought {
 span.thought::before {
   color: black;
   content: "\25b9";
+  font-size: 0.75em;
+  position: relative;
+  bottom: 0.15em;
 }
 span.thought::after {
   color: black;
   content: "\25c3";
+  font-size: 0.75em;
+  position: relative;
+  bottom: 0.15em;
 }
 
 .comment {
