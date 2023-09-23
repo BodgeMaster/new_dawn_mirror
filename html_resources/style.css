@@ -118,6 +118,14 @@ span.thought::after {
   bottom: 0.15em;
 }
 
+button.back {
+	font-size: 2.8em;
+	width: 1.3em;
+	height: 1.3em;
+	position: fixed;
+	top: 0.4em;
+}
+
 .comment {
   font-style: italic;
   color: gray;
