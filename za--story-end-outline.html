@@ -1,0 +1,49 @@
+<!DOCTYPE html><html><head><title> &lt;Story End Outline&gt; </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body><a href="index.php"><button class="back">&lt;</button></a>
+<h1>&lt;Story End Outline&gt;</h1>
+<p class="comment">
+  This is not intended to be a chapter. It&apos;s more of an overview for
+  the following chapters.
+</p>
+<ul>
+  <li class="comment">
+    They turn a bus into an improvised offroad-camper
+  </li>
+  <li class="comment">
+    Last communication with Emily
+  </li>
+  <li class="comment">
+    Emily takes off from the moon
+  </li>
+  <li class="comment">
+    They set off into the mountains
+    <ul>
+      <li class="comment">
+        problematic and sometimes non-existing roads
+      </li>
+      <li class="comment">
+        They face an unexpected obstacle and lose a lot of time
+      </li>
+      <li class="comment">
+        Jack and James end up driving through the night - unbeknownst to
+        Annie and Michelle
+      </li>
+    </ul>
+  </li>
+  <li class="comment">
+    The highway through the desert is in very good condition
+    (= not completely buried by sand)
+    <ul>
+      <li class="comment">
+        Because of this and them driving through the night, they end up
+        arriving early
+      </li>
+    </ul>
+  </li>
+  <li class="comment">
+    exploring Nova metropolis (basically a time capsule)
+  </li>
+  <li class="comment">
+    the events of zz*.html
+  </li>
+</ul>
+<script>let spans = ["<span class=\"paper_green\">", "<span>"];let paper_sections = document.getElementsByClassName("paper");for (let i = 0; i < paper_sections.length; i++) {let lines = paper_sections[i].innerHTML.split("\n");let result = "";for (let j = 0; j < lines.length; j++) {result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";}paper_sections[i].innerHTML = result;}</script></body></html>
