@@ -1,0 +1,32 @@
+<!DOCTYPE html><html><head><title> Landing Troubles </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body><a href="index.php"><button class="back">&lt;</button></a>
+<h1>Landing Troubles</h1>
+<p>
+  The escape pod <span class="comment">Is there a word that makes this sound
+  more like it&apos;s the technical term?</span> enters the atmosphere with
+  a jolt. <span class="comment">Honestly, I have no idea what it is like to
+  enter the atmosphere. Needs research.</span> The displays on the control
+  panel flicker and start showing random symbols. Error messages start
+  scrolling over the screen. <span class="speech">Uh oh.</span>
+</p>
+<p>
+  Emily stares at the control panel for a moment trying to think. She grabs
+  her emergency notes and frantically searches for the relevant section.
+  After finally finding the right page, she presses a few buttons on the
+  keyboard. The screen clears and shows the word &quot;HALTED&quot;. Then,
+  she flips a bunch of switches to unlock the controls. Clicking and
+  clanging under the control panel. <span class="comment">Throttle lever and
+  position controls start floating</span> Looking at the next page of her
+  notes, she realizes that the order has been messed up. Again, she
+  scrambles through the pages until she finds the next instructions.
+  &quot;Wait until the external pressure gauge reads &lt;xyz&gt; and release
+  the heat shield.&quot; She looks at the analog gauges at the top of the
+  panel - there it ts. &lt;less than xyz value&gt;.
+</p>
+<p>
+  The shield detaches with a bang. Emily flips the switch for the fuel
+  pumps, grabs the throttle lever, and pushes it all the way forward.
+  Nothing happens. She looks back at the notes - did she miss anything? She
+  flips the switch off and on again.
+  <span class="speech">Nononononooo...</span>
+</p>
+<script>let spans = ["<span class=\"paper_green\">", "<span>"];let paper_sections = document.getElementsByClassName("paper");for (let i = 0; i < paper_sections.length; i++) {let lines = paper_sections[i].innerHTML.split("\n");let result = "";for (let j = 0; j < lines.length; j++) {result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";}paper_sections[i].innerHTML = result;}</script></body></html>
