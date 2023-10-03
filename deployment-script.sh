@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cp html_resources/index_template.html index.html
 
 function genlinks {
