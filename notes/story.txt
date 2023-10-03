@@ -1,3 +1,7 @@
+This is very out of date. I'm gonna update this and remove the Markdown
+formatting whenever I feel like it. Bu I ron't feel like it atm. ;)
+
+
 **Big-picture story overview:**
 
 * Story begins on Tue, 2106-06-01
