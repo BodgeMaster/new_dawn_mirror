@@ -6,26 +6,26 @@ formatting whenever I feel like it. Bu I ron't feel like it atm. ;)
 
 * Story begins on Tue, 2106-06-01
 * \[partial\] Jack wakes up and contacts Annie, in the end he asks for a manual for the door
-* \[partial\] Annie goes to the library but doesn’t get the manual - instead she gets a mysterious invite
+* \[partial\] Annie goes to the library but doesn't get the manual - instead she gets a mysterious invite
 * \[missing\] Annie talks to Jack again at work 
   * Annie figures out how to use a keyboard properly
-  * Potentially written from Jack’s perspective as not much of interest happens on Annie’s side 
+  * Potentially written from Jack's perspective as not much of interest happens on Annie's side 
     * he could do something else as well, maybe working on improvising tools before or after talking to Annie
 * \[partial\] Annie gets introduced to secret organization, learns that Karl is also part of it
 * \[partial\] Lucas gives Annie the keys for the library and instructions on where to find the relevant computers 
-  * for some reason he can’t go get the manual himself (needs to be at an important event or something)
-  * Karl doesn’t join bc he can’t run if things go south, but he does give her a list of useful UNIX commands and a run-down of how to get one of these computers started
+  * for some reason he can't go get the manual himself (needs to be at an important event or something)
+  * Karl doesn't join bc he can't run if things go south, but he does give her a list of useful UNIX commands and a run-down of how to get one of these computers started
   * They talk about Jack and why they would help him
-* \[partial\] Annie gets the manual and drops it off at Karl’s place 
+* \[partial\] Annie gets the manual and drops it off at Karl's place 
   * she puts a note and the floppy disk into his mailbox
-* \[missing\] Next morning from Jack’s perspective 
+* \[missing\] Next morning from Jack's perspective 
   * incoming connection from Karl
   * he says that Annie has procured a floppy disk with the manual 
-    * it’s not readable / the file is just gibberish
-    * Jack gets a copy of the header and determines it’s encrypted
-    * he tells Karl that he can probably write a program to break the encryption but it’s gonna take a powerful computer to do it within a reasonable time 
+    * it's not readable / the file is just gibberish
+    * Jack gets a copy of the header and determines it's encrypted
+    * he tells Karl that he can probably write a program to break the encryption but it's gonna take a powerful computer to do it within a reasonable time 
       * The ideal computer for this task has a Number Cruncher 3000 card and lots of memory
-    * Karl says he’ll get back to Jack
+    * Karl says he'll get back to Jack
 * \[missing\] Next secret organization meetup 
   * Annie gives the keys back
   * they come up with the idea of stealing a minicomputer from some company that someone has a link to
@@ -53,16 +53,16 @@ formatting whenever I feel like it. Bu I ron't feel like it atm. ;)
 * \[missing\] Jack finishes writing the program and sends it to Karl
 * \[missing\] the heist 
   * Annie, Isabelle, Lucas, and the inside contact go in and collect equipment and bring it to the front door
-  * Karl’s friend is waiting to load it into the back of his pickup truck
+  * Karl's friend is waiting to load it into the back of his pickup truck
   * Karl is behind the wheel ready to take off
-  * once everything is loaded up, Karl’s friend gets into the truck and everyone disperses in different directions
+  * once everything is loaded up, Karl's friend gets into the truck and everyone disperses in different directions
   * they almost get caught 
     * Maybe Lucas and one other member of the secret organization stay behind to buy the others time and get arrested
-* \[missing\] next morning, they set up the computer at Karl’s place 
+* \[missing\] next morning, they set up the computer at Karl's place 
   * something in the news about a stolen computer lol
-  * "Hmm I wonder who could that have been? We wouldn’t know where it is..."
+  * "Hmm I wonder who could that have been? We wouldn't know where it is..."
   * they break the encryption of the floppy disk (takes like three days)
-* *\[missing\] some moon scene, possibly something that shows that Lena doesn’t like the lab mice*
+* *\[missing\] some moon scene, possibly something that shows that Lena doesn't like the lab mice*
 * \[missing\] Jack gets the bunker door open and wakes up Michelle 
   * they explore the Ivydale area
   * find a working metro train somewhere that only needs some mild fixing up 
@@ -97,12 +97,12 @@ formatting whenever I feel like it. Bu I ron't feel like it atm. ;)
     * *has to result in the dome city opening up*
     * *IDEA: "The power will be going out on <date> for critical maintenance that you have neglected to do for a century. Shame on you for sticking your heads in the sand instead of facing the problems of the outside world."*
   * *the protagonists move to Sentinel Shores* 
-    * *Originally I was thinking they might move to a factory hall or hangar or maybe even one of the lower levels of a sky scraper but it might be more realistic that they just move into the observatory as it’s where they work on stuff*
+    * *Originally I was thinking they might move to a factory hall or hangar or maybe even one of the lower levels of a sky scraper but it might be more realistic that they just move into the observatory as it's where they work on stuff*
   * *Annie has never been on a boat so they fix one up and hop over to Rogue Tides*
   * *encounter the electronics tinkerer*
   * *problematic encounter with one of the groups/tribes/whatever* 
     * *the members have gone nuts and are religious fanatics*
-    * *They see Jack’s Neotek Dynamics company clothes and start treating him as an evil god* 
+    * *They see Jack's Neotek Dynamics company clothes and start treating him as an evil god* 
       * *try really hard to stop him from leaving or doing anything*
     * *cause for them to be more cautious? Idk*
   * *neutral encounter with the other one* 
@@ -123,7 +123,7 @@ formatting whenever I feel like it. Bu I ron't feel like it atm. ;)
 * Underground organization (Annie, Librarian, Karl) 
   * from the underground city
   * want the underground city to open up again
-  * they come up with the plan that Annie should escape the city since she has the contact with Jack anyway so that they can gather some intelligence on what’s going on outside
+  * they come up with the plan that Annie should escape the city since she has the contact with Jack anyway so that they can gather some intelligence on what's going on outside
   * Annie discovers the hydro power plant - they end up messing with the power supply of the dome to force officials to stop the isolation
 * Neotek Dynamics (Jack, Michelle) 
   * mission to get into contact with moon base to check in on them
@@ -140,8 +140,8 @@ formatting whenever I feel like it. Bu I ron't feel like it atm. ;)
 
 **Scene ideas:**
 
-* Annie, in her search for an alternative to whatever the underground city has as "coffee", obtains some drug from the electronics tinkerer. She proceeds to get high as the sky and gets herself into a dangerous situation before the others catch on to what’s happening. Jack will end up more or less forcing her back to the base and sit there watching her so she doesn’t do anything stupid.
-* Emily wakes up. A relative is waiting in her room, silently crying. Emily, catching on to what’s going on (and having experienced the bad news of the past how ever many weeks, months, or years), asks who died this time. Some other person, Idk. That leaves 5 alive ppl in the moon base. 
+* Annie, in her search for an alternative to whatever the underground city has as "coffee", obtains some drug from the electronics tinkerer. She proceeds to get high as the sky and gets herself into a dangerous situation before the others catch on to what's happening. Jack will end up more or less forcing her back to the base and sit there watching her so she doesn't do anything stupid.
+* Emily wakes up. A relative is waiting in her room, silently crying. Emily, catching on to what's going on (and having experienced the bad news of the past how ever many weeks, months, or years), asks who died this time. Some other person, Idk. That leaves 5 alive ppl in the moon base. 
   * Followed by a moon funeral? Idk.
 * When Emily recovers (in a different chapter), Lena says something to the effect of "that should have killed you". 
   * same chapter should have a dialog about how Lena took care of the mice despite originally not being too fond of them

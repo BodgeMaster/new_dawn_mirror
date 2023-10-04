@@ -3,7 +3,7 @@ People:
 - Annie 
   - from underground city
   - curious about things
-  - knows nothing about computers, but doesn’t shy away from them 
+  - knows nothing about computers, but doesn't shy away from them 
     - will have to figure out things on her own
   - works at AgriWorks 
     - What does she do? 
@@ -55,14 +55,14 @@ People:
     - from moon base
     - scientist that almost managed to come up with a cure for the disease
   - Lena 
-    - Emily’s adult sister - 20 to 25yo
+    - Emily's adult sister - 20 to 25yo
     - from moon base (duh)
-    - Her spouse died just before Emily’s intro
+    - Her spouse died just before Emily's intro
     - dies like everyone else on the moon except Emily
   - unnamed male crew member 
     - about to die in the lab incident chapter
 - Karl 
-  - Annie’s Grandpa
+  - Annie's Grandpa
   - from underground city
   - has thoroughly studied the plans of the city and some maps of what
     is/was just outside it
@@ -70,8 +70,8 @@ People:
     - mostly things his dad had mentioned in passing or when talking about
       his childhood
   - by no means a computer genius but he knows how to use one
-- Annie’s Grandpa’s Dad 
-  - needs a name? maybe he doesn’t
+- Annie's Grandpa's Dad 
+  - needs a name? maybe he doesn't
   - from old world
   - dead
   - was 8 when he moved to the underground city 
@@ -79,7 +79,7 @@ People:
       before the apocalypse actually happened
     - was aware of experiments with cryogenic preservation but thought it
       was a ridiculous idea
-- Annie’s Grandpa’s Friend 
+- Annie's Grandpa's Friend 
   - needs a name
   - from underground city
 - Lucas 
@@ -93,7 +93,7 @@ People:
 - Electronics Tinkerer 
   - needs a name
   - from above ground
-  - has a drug problem (the drug could be named "devil’s spice")
+  - has a drug problem (the drug could be named "devil's spice")
 - Company Insider 
   - needs a name
   - from underground city
@@ -107,7 +107,7 @@ People:
 Organizations:
 
 - AgriWorks 
-  - Annie’s workplace
+  - Annie's workplace
   - does something with agriculture inside the dome
   - a mix of a company and an institution
 - Secret organization 

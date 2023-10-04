@@ -1,6 +1,6 @@
 Cities:
 
-- Sentinel Shores (formerly Siren’s Edge, Siren’s Song) 
+- Sentinel Shores (formerly Siren's Edge, Siren's Song) 
   - post-apocalyptic ruin city
   - close enough to Ivydale that they share a public transport system
   - located on the coast 
@@ -29,8 +29,8 @@ Cities:
     - few single-family homes
   - past its prime but most things are intact
   - has a metro for public transport 
-    - can be used for entering/leaving the city but that hasn’t been done
-      since the apocalypse and it’ s strictly forbidden
+    - can be used for entering/leaving the city but that hasn't been done
+      since the apocalypse and it' s strictly forbidden
   - food is farmed in big silos adjacent to the dome 
     - illuminated by daylight through hermetically sealed light shafts but
       inaccessible to most ppl
@@ -45,13 +45,13 @@ Cities:
     there are a lot of ppl there, roughly half of the homes are time
     capsules
 - Nova Metropolis 
-  - location of moon girl’s landing
+  - location of moon girl's landing
   - much bigger than Sentinel Shores and built inland
   - built around an oasis in a desert 
     - not the kind of desert where sand gets piled up into dunes otherwise
       it would have gotten buried
   - buildings in a lot better shape due to being in a desert
-- Siren’s Edge (formerly Westport) 
+- Siren's Edge (formerly Westport) 
   - Just a location that is mentioned in passing
 - Rogue Tides 
   - small town that has (used to have) a datacenter
@@ -74,7 +74,7 @@ Facilities/Institutions:
   - Backstory: A good portion of the bunker crew has been woken up decades
     before Jack 
     - they left to do their mission somehow sending supplies to the moon
-    - bunker wasn’t resealed properly 
+    - bunker wasn't resealed properly 
       - hardware has degraded/failed
       - maybe there could have been other bunker personnel who have
         perished because their preservation chambers failed
@@ -112,20 +112,20 @@ Train stations:
   - Sentinel Shores Central
   - Sentinel Shores Fish Market
 - Inside the dome: 
-  - the station near Annie’s work
-  - the station where she jumps into Jack’s train
+  - the station near Annie's work
+  - the station where she jumps into Jack's train
   - the station they barrel through
   - Crystal Park 
     - station near a park of the same name
-    - planned to be the station Annie would get off Jack’s train
+    - planned to be the station Annie would get off Jack's train
   - Central Square
 
 
 Homes / bases:
 
-- Annie’s home in the dome city 
+- Annie's home in the dome city 
   - small single-bedroom apartment
-- Annie’s grandpa’s home 
+- Annie's grandpa's home 
   - two story single family home
 - Sentinel Shores base 
   - inside and around the observatory buildings
