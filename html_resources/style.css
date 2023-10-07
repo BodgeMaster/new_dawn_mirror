@@ -1,7 +1,10 @@
 body {
-  margin: 0;
-  padding: 0 5%;
+  margin: 0 auto;
+  width: 90%;
+  min-height: 100%;
 }
+
+/* TODO: media query, use entire width on small viewports */
 
 h1 {
   text-align: center;
@@ -53,6 +56,15 @@ p.strong {
 p.heavy {
   /* TODO: include a font that supports different weights */
   font-weight: bolder;
+}
+
+p.copyright {
+  position: relative;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 0.8em;
+  color: gray;
+  bottom: 2px;
 }
 
 pre {
