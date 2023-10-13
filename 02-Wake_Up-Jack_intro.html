@@ -7,8 +7,7 @@
   head, he realizes that his entire body hurts.<br />
   <span class="speech">Owwowwowwowwoww... Ouch!</span><br />
   <span class="speech">Emergency defrost complete. Entering low power
-  mode.</span>
-  announces an automated voice. <br />
+  mode.</span> announces an automated voice. <br />
   He thinks to himself: <span class="thought">Get it together, Jack! You
   knew this was gonna happen. You have trained for this. Where are the
   meds again? ...</span>
@@ -31,7 +30,7 @@
   rust. The red night lights on the ceiling are dimly illuminating the rest
   of the bunker. He looks to the left: The wall is lined with other
   preservation chambers, all except one of them being powered down. In
-  front of the back wall are desks holding a radio, a terminal, and some
+  front of the rear wall are desks holding a radio, a terminal, and some
   boxes. To the left of the desks in the corner is a minicomputer in a
   half-height rack and a teleprinter, and above it a phone on the wall
   &ndash; the usual Neotek equipment. He looks to the right: More
@@ -73,48 +72,84 @@
   the computer.
 </p>
 <p>
-  The phone lifts off the wall with a quiet click and Jack begins to dial.
-  He holds the receiver to his ear - silence. Welp, another thing that
-  isn&apos;t working. He puts it back on the wall while turning to the
-  terminal.
+  <span class="comment">There needs to be a mention of him trying to turn
+  on a lamp but it only flickers for a short moment.</span>
+  He leans over the desk with the terminal and flips the power switch.
+  Bonk! <span class="thought">Seems to work, at least.</span> While waiting
+  for the tube to warm up, he walks over to the rack and sits down
+  on the floor in front of it. He inspects the status lights.
+  <span class="thought">CPU is idle, serials are idle, primary hard drive
+  is powered up &ndash; all good. Secondary hard drive is powered down,
+  let&apos;s change that...</span> He pushes the power button and hears the
+  spindle spinning up. The power button blinks. There is some intermittent
+  rattling from the drive, <span class="thought">probably a shot
+  bearing</span>. It takes an unusually long time for it to get up to
+  speed. Impatiently sitting there, Jack waits for the drive to be ready.
+  Clicking form the mechanism unlocking the heads followed by a ringing
+  scratching noise. <span class="thought">Of course</span>, he thinks,
+  quickly pressing the power button again. The scratching stops and the
+  spindle motor turns off. <span class="thought">That&apos;s gonna be an
+  ugly head crash.</span> He looks around for other ways to get the manual.
+  He could try calling someone, maybe the lines to &lt;dome city&gt; still
+  work.
 </p>
 <p>
-  Bonk! At least this seems to work. While waiting for the picture tube to
-  warm up, he opens the lid on the teleprinter - only to find that
-  something has eaten most of the paper. He removes what remains and opens
-  one of the cabinets under the desks. By some miracle, the animal that ate
-  the paper on the printer didn&apos;t find the rest. He takes a piece of
-  the stack and tears it off. Then, he sets it on top of the desk with a
-  thump. <span class="comment">need translation for &quot;Staub
-  aufwirbeln&quot;</span>
+  Not exactly excited by the prospect of calling random people, but not
+  seeing another option, he reaches for the phone. It lifts off the wall
+  with a quiet click and Jack begins to dial. He holds the receiver to his
+  ear - silence. <span class="thought">Welp, that&apos;s that.</span>
+  He puts it back on the wall.
 </p>
 <p>
-  The terminal screen reaches full brightness as Jack feeds the paper into
-  the printer. He makes sure the holes on the feed ribbons line up with the
-  mechanism, then he turns back to the terminal and begins to type.
+  <span class="thought">I wonder what happened over the years...</span>
+  He walks over to the the teleprinter and opens the lid to find that
+  something has eaten most of the paper. He removes the remains and opens
+  one of the cabinets under the desks. By some miracle, whatever ate the
+  paper didn&apos;t find the rest. He tears off a piece of the stack and
+  puts it into the printer, feeding the end into the tractor mechanism.
+  Then, he sits down at the terminal and logs on.
+  <span class="comment">This should be rephrased to indicate that there
+  is some purpose to him opening the lid in the first place, like him
+  wanting to change the ribbon bc it's no doubt deteriorated or something
+  like that.</span>
 </p>
 <pre class="terminal">
-  Tue, 2106-06-01, 15:21
+Tue, 2106-06-01, 15:21
 
-  EARTH-53 Login: jack
-  Password:
+EARTH-53 Login: jack
+Password:
 
-  Welcome to INUX!
+Welcome to INUX!
 
-  $ ls
-  $ pwd
-  /home/jack
-  $ cd /var/log
-  $ ls -F
-  cron/ outpost/ dmesg.log wtmp
-  $ cd outpost
-  $ ls -F
-  comms comms_diag/ event logbook
-  $ cat logbook &gt; /dev/ttyS1
-  $ &#9608;
+$ &#9608;
 </pre>
 <p>
-  The printer comes to life and starts printing.
+  <span class="thought">Over a hundred years, huh...</span><br />
+  He types a few commands.
+</p>
+<pre class="terminal">
+$ ls
+$ pwd
+/home/jack
+$ cd /var/log
+$ ls
+cron outpost dmesg.log wtmp
+$ cd outpost
+$ ls
+comms comms_diag event logbook
+$ cat logbook &gt; /dev/ttyS1
+$ &#9608;
+</pre>
+<p>
+  The printer comes to life and starts printing. Jack gets up and walks
+  over to it. The printer prints. And it prints some more. The paper
+  reaches the floor. Jack picks up the end and holds it, folding the pages
+  along the perforated lines as they reach his hands. Finally, the printer
+  stops to print. Jack turns the wheel on the side of the printer, manually
+  advancing the feed mechanism, until he reaches the end of the page. Then,
+  he tears it off and takes the small stack of paper back to the terminal
+  desk. Trying his luck with the lamp again, he flips the switch multiple
+  times until it stays on.
 </p>
 <pre class="paper">
 2000-01-01 Automated Announcement:
