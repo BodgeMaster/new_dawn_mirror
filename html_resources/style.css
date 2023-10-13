@@ -112,7 +112,7 @@ span.speech::after {
   bottom: 0.15em;
 }
 
-span.thought {
+span.non-speech {
   color: #303030;
 }
 span.thought::before {
@@ -124,6 +124,26 @@ span.thought::before {
 }
 span.thought::after {
   color: black;
+  content: "\25c3";
+  font-size: 0.75em;
+  position: relative;
+  bottom: 0.15em;
+}
+
+/*TODO: Remove and replace with speech/non-speech where appropriate*/
+span.thought {
+  color: red;
+  /*color: #303030;*/
+}
+span.thought::before {
+  color: red;
+  content: "\25b9";
+  font-size: 0.75em;
+  position: relative;
+  bottom: 0.15em;
+}
+span.thought::after {
+  color: red;
   content: "\25c3";
   font-size: 0.75em;
   position: relative;
