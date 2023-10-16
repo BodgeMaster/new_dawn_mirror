@@ -94,17 +94,17 @@ span.paper.green {
   background-color: #D0DBA6;
 }
 
-span.speech {
+span.quote.speech {
   color: #303030;
 }
-span.speech::before {
+span.quote.speech::before {
   color: black;
   content: "\25b8";
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
 }
-span.speech::after {
+span.quote.speech::after {
   color: black;
   content: "\25c2";
   font-size: 0.75em;
@@ -112,17 +112,17 @@ span.speech::after {
   bottom: 0.15em;
 }
 
-span.non-speech {
+span.quote.non-speech {
   color: #303030;
 }
-span.thought::before {
+span.quote.thought::before {
   color: black;
   content: "\25b9";
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
 }
-span.thought::after {
+span.quote.thought::after {
   color: black;
   content: "\25c3";
   font-size: 0.75em;
@@ -131,18 +131,18 @@ span.thought::after {
 }
 
 /*TODO: Remove and replace with speech/non-speech where appropriate*/
-span.thought {
+span.quote.thought {
   color: red;
   /*color: #303030;*/
 }
-span.thought::before {
+span.quote.thought::before {
   color: red;
   content: "\25b9";
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
 }
-span.thought::after {
+span.quote.thought::after {
   color: red;
   content: "\25c3";
   font-size: 0.75em;
