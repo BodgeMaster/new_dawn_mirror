@@ -30,5 +30,64 @@
     Annie needs to go to meet the library guy
   </li>
 </ul>
+<p class="comment">
+  This has been moved here from chapter 1 &quot;Wake Up&quot;. It should
+  be integrated into this chapter instead.
+</p>
+<p>
+  He walks over to the the teleprinter and opens the lid to find that
+  something has eaten most of the paper. He removes the remains and opens
+  one of the cabinets under the desks. By some miracle, whatever ate the
+  paper didn&apos;t find the rest. He tears off a piece of the stack and
+  puts it into the printer, feeding the end into the tractor mechanism.
+  Then, he sits down at the terminal and logs on.
+  <span class="comment">This should be rephrased to indicate that there
+  is some purpose to him opening the lid in the first place, like him
+  wanting to change the ribbon bc it's no doubt deteriorated or something
+  like that.</span>
+</p>
+<pre class="terminal">
+$ ls
+$ pwd
+/home/jack
+$ cd /var/log
+$ ls
+cron outpost dmesg.log wtmp
+$ cd outpost
+$ ls
+comms comms_diag event logbook
+$ cat logbook &gt; /dev/ttyS1
+$ &#9608;
+</pre>
+<p>
+  The printer comes to life and starts printing. Jack gets up and walks
+  over to it. The printer prints. And it prints some more. The paper
+  reaches the floor. Jack picks up the end and holds it, folding the pages
+  along the perforated lines as they reach his hands. Finally, the printer
+  stops to print. Jack turns the wheel on the side of the printer, manually
+  advancing the feed mechanism, until he reaches the end of the page. Then,
+  he tears it off and takes the small stack of paper back to the terminal
+  desk. Trying his luck with the lamp again, he flips the switch multiple
+  times until it stays on.
+</p>
+<pre class="paper">
+2000-01-01 Automated Announcement:
+    Happy New Year 2000!
+    //TODO: ASCII art of above line with fireworks
+
+    The outpost diagnostics suite reports no critical problems at any of
+    our outposts. The Lunar Biosphere has, so far, not needed assistance
+    from any of the outposts.
+    Good work, everyone!
+
+    The Future Is Bright.
+
+2002-08-15 Lunar Biosphere:
+    Crew wakeup command
+
+    Message:
+    //TODO
+//TODO: more log messages left by people
+</pre>
 
 <p class="copyright">Copyright &#169; 2023 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.</p><script>let spans = ["<span class=\"paper green\">", "<span>"]; let pre_texts = document.getElementsByTagName("pre"); for (let i = 0; i < pre_texts.length; i++) {if (pre_texts[i].className != "paper") continue; let lines = pre_texts[i].innerHTML.split("\n"); let result = ""; for (let j = 0; j < lines.length; j++) {result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";} pre_texts[i].innerHTML = result;}</script></body></html>
