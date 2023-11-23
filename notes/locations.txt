@@ -109,6 +109,7 @@ Train stations:
   - Ivydale Distillery
 - Sentinel Shores: 
   - Sentinel Shores Observatory
+    - needs a nicer name
   - Sentinel Shores Central
   - Sentinel Shores Fish Market
 - Inside the dome: 
