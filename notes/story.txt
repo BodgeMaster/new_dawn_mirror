@@ -172,6 +172,7 @@ Story begins on Tue, 2106-06-01
 -> talk about where to get computers from
   -> James suggests the datacenter in Rogue Tides
 
+[outdated stuff that may serve as ideas for current story]
 * *... missing things (not in order):* 
   * *power plant shenanigans* 
     * *secret organization has to do things like putting up banners in high-profile locations and/or distribute a manifesto*
@@ -195,10 +196,10 @@ Story begins on Tue, 2106-06-01
   * *Emily takes off from the moon*
   * *\[done, needs revision\] Emily lab incident*
   * *they have to, at some point, climb on a sky scraper - maybe even multiple times*
-* Emily enters the atmosphere 
-  * something goes wrong - either fuckup or technical failure or both
-  * she realizes that she is descending waay too fast and tries mentally going through the emergency checklist
-* Emily lands
+
+[needs revision] Emily enters the atmosphere
+-> technical failure
+[mostly done] Emily lands
 
 
 Scene Ideas:
@@ -212,5 +213,5 @@ more or less forcing her back to the base and sit there watching her so she
 doesn't do anything stupid.
 
 Emily is alone, preparing for her descent to Earth. As part of the
-preparations, she releases the remaining lab mice into the biosphere
+preparations, she releases the remaining lab mice into the biotope
 module (they came from there originally).
