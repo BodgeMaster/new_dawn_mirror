@@ -1,0 +1,30 @@
+<!DOCTYPE html><html><head><title> Welcom Home </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body><a href="index.html"><button class="back">&lt;</button></a>
+
+<h1>Welcome Home</h1>
+<p class="comment">
+  Annie and Jack arrive at the bunker.
+  Annie smells fire and is worried by that -> fire in dome city is always
+  a bad sign.
+  Michelle and Annie get introduced.
+  James shows up?
+</p>
+
+<p>
+  <span class="quote speech">I smell fire.</span><br />
+  <span class="quote speech">Yes, we&apos;re very close now.</span><br />
+  Annie is slightly confused by his answer and how seemingly
+  <span class="comment">unfazed? Is that how you spell it?</span> he is.
+  <br />
+  <span class="quote speech">But ... Don&apos;t you want to do anything
+  about it?</span><br />
+  <span class="quote speech">Fires out here aren&apos;t generally bad news.
+  Sometimes, they are, but this one is our campfire.</span>
+</p>
+<p>
+  They walk over a <span class="comment">Grat? Ausl&auml;ufer?</span>,
+  revealing a view of the small valley beyond. The large, open bunker door
+  is visible on the other side, in front of it a small fire with a person
+  sitting next to it.
+</p>
+
+<p class="copyright">Copyright &#169; 2023 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.</p><script>let spans = ["<span class=\"paper green\">", "<span>"]; let pre_texts = document.getElementsByTagName("pre"); for (let i = 0; i < pre_texts.length; i++) {if (pre_texts[i].className != "paper") continue; let lines = pre_texts[i].innerHTML.split("\n"); let result = ""; for (let j = 0; j < lines.length; j++) {result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";} pre_texts[i].innerHTML = result;}</script></body></html>
