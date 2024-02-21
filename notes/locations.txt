@@ -20,8 +20,8 @@ Cities:
   - buildings in various stages of disrepair 
     - no sky scrapers
   - many things were left behind, definitely worth looting random buildings
-- Underground Dome City 
-  - still needs a name
+- Sunside Cove
+  - underground dome city
   - inside a huge hermetically sealed dome under a mountain
   - basically a normal city otherwise 
     - mostly three to five story buildings
@@ -82,7 +82,7 @@ Facilities/Institutions:
       - Jack gets woken up due to impending hardware failure
       - Michelle stays preserved until she gets woken up by Jack
   - has enough supplies to last a lot of ppl for a long time
-- <underground dome city> library 
+- Sunside Cove library
   - has large computers in the basement
 - retro-futuristic data center 
   - located in Rogue Tides
