@@ -1,3 +1,18 @@
+* {
+  color: #101010;
+}
+
+a {
+  color: #1515A0;
+}
+a:visited {
+  color: #185113;
+}
+
+html {
+  background-color: #e5e3e0;
+}
+
 body {
   margin: 0 auto;
   width: 90%;
@@ -13,7 +28,7 @@ h1 {
   padding-top: 0.8em;
   padding-bottom: 0.5em;
 
-  border-bottom: 0.1em solid black;
+  border-bottom: 0.1em solid #101030;
 
   margin: 0;
   margin-bottom: 0.8em;
@@ -75,7 +90,7 @@ pre {
 pre.terminal {
   color: #B5E550;
   background-color: #3F3F3F;
-  border: 1px solid black;
+  border: 1px solid #101030;
 
   padding: 1em;
 }
@@ -84,7 +99,7 @@ pre.paper {
   /* TODO: typewriter-look? */
   /* TODO: tractor feed ribbons? */
   background-color: #F0E6CE;
-  border: 1px solid black;
+  border: 1px solid #101030;
 
   padding: 1em;
   padding-bottom: 0em;
@@ -98,14 +113,14 @@ span.quote.speech {
   color: #303030;
 }
 span.quote.speech::before {
-  color: black;
+  color: #101030;
   content: "\25b8";
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
 }
 span.quote.speech::after {
-  color: black;
+  color: #101030;
   content: "\25c2";
   font-size: 0.75em;
   position: relative;
@@ -116,14 +131,14 @@ span.quote.non-speech {
   color: #303030;
 }
 span.quote.non-speech::before {
-  color: black;
+  color: #101030;
   content: "\25b9";
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
 }
 span.quote.non-speech::after {
-  color: black;
+  color: #101030;
   content: "\25c3";
   font-size: 0.75em;
   position: relative;
@@ -148,6 +163,9 @@ span.quote.thought::after {
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
+}
+span.chapter {
+  color: inherit;
 }
 span.chapter::before {
   content: "\25b9";
