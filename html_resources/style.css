@@ -111,6 +111,11 @@ pre {
       whether the content fits on screen or not
     */
     overflow: visible;
+
+    /*
+      force it back to 80ch when the workaround from above doesn't apply
+    */
+    width: 80ch;
   }
 }
 
