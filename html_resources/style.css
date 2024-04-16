@@ -15,9 +15,15 @@ html {
 
 body {
   margin: 0 auto;
-  width: 90%;
+  width: 100%;
   min-height: 100%;
 }
+@media screen and (min-width: 48rem) {
+  body {
+    width: 90%;
+  }
+}
+
 
 /* TODO: media query, use entire width on small viewports */
 
@@ -42,11 +48,16 @@ p, pre, ul {
   margin-right: auto;
   margin-bottom: 0.9em;
 
-  width: 80%;
+  width: 98%;
   max-width: 720px;
 
   list-style-position: inside;
   list-style-type: disclosure-closed;
+}
+@media screen and (min-width: 48rem) {
+  p, ul {
+    width: 80%;
+  }
 }
 
 li ul {
@@ -83,8 +94,24 @@ p.copyright {
 }
 
 pre {
-  width: 80ch;
+  max-width: 80ch;
   font-size: 0.9rem;
+  overflow: scroll;
+
+  /*
+    Workaround for extending off screen on small viewports bc I cba
+    to figure it out properly
+  */
+  width: 90%;
+}
+@media screen and (min-width: 48rem) {
+  pre {
+    /*
+      Get rid of scrollbars on browsers that show them regardless of
+      whether the content fits on screen or not
+    */
+    overflow: visible;
+  }
 }
 
 pre.terminal {
