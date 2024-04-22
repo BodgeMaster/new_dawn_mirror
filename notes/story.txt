@@ -17,9 +17,9 @@ Story begins on Tue, 2106-06-01
 -> [partial] figures out she (or anyone else for that matter) can't help
    him directly
 -> agrees to get him the manual
--> [partial] leaves work for the day
+-> leaves work for the day
 
-[needs revision] Annie goes to the library
+Annie goes to the library
 -> she doesn't get the manual
 -> instead, she gets a mysterious invite
 
@@ -149,11 +149,10 @@ Story begins on Tue, 2106-06-01
 -> They make their way to where used to be a bridge and climb down
 -> continue towards the bunker
 
-[missing] James the nomad shows up at the bunker with his dog
+[partial] James the nomad shows up at the bunker with his dog
+-> just after Jack and Annie arrive
 -> looking for the Sentinel Shores observatory
 -> decides he's gonna stay for the night
--> playing with the dog
--> Jack and Annie arrive
 -> food
 -> talk about the before times
   -> James decides to postpone his trip to Sentinel Shores, the bunker has
