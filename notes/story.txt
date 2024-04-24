@@ -3,19 +3,18 @@ Big-picture story overview:
 
 Story begins on Tue, 2106-06-01
 
-[partial] Jack wakes up
+Jack wakes up
 -> finds himself trapped in a bunker
 -> leaves Michelle frozen
 -> attempts to fix the door to get out
-  -> [missing] no tools, improvisation
+  -> no tools, improvisation
   -> tries and fails to get a service manual from the computer dur to a
      broken hard drive
-  -> [implied] connects to the AgriWorks computer
+  -> connects to the AgriWorks computer
 
-[partial} Annie finds out about his situation
+[revision needed] Annie finds out about his situation
 -> finds the terminal
--> [partial] figures out she (or anyone else for that matter) can't help
-   him directly
+-> figures out she (or anyone else for that matter) can't help him directly
 -> agrees to get him the manual
 -> leaves work for the day
 
@@ -24,17 +23,17 @@ Annie goes to the library
 -> instead, she gets a mysterious invite
 
 [partial] Jack messes with the computer
--> [missing] inspects the damage on the hard drive
+-> inspects the damage on the hard drive
+-> [partial] Jack prints off the logbook
 -> [missing] talks to Annie again
   -> outcome of the library visit
   -> Annie figures out shift and special chars
   -> Annie asks a bunch of questions about Jack and his situation
--> [partial] Jack prints off the logbook
 
 [partial] Secret organization meeting
 -> Annie meets with Lucas
--> [needs revision] finds out that Karl is also part of the group
--> [needs revision] Lucas needs to go but leaves his keys
+-> finds out that Karl is also part of the group
+-> Lucas needs to go but leaves his keys
   -> [change] He needs to leave immediately
   -> [missing] He says something to the effect of "leave them at xyz
      location when you're done"
@@ -56,8 +55,15 @@ Annie goes to the library
   -> Jack takes a look at the file
   -> turns out it's encrypted
 -> Jack can write a program to break the encryption but for that to
-   be feasibly, they need a computer with a Number Cruncher 2000 card
+   be feasibla, they need a computer with a Number Cruncher 2000 card
 -> Karl asks if Jack could/would open the airlocks from the outside
+
+[partial] Emily intro
+-> Emily wakes up, Lena is in her room crying
+-> introduce the fact that there is a dangerous pathogen wreaking havoc on
+   the moon
+-> ???
+-> funeral
 
 [missing] Next secret organization meetup
 -> short interaction between Annie and Lucas
@@ -66,13 +72,6 @@ Annie goes to the library
   -> they decide to "borrow" a computer that has the right hardware
 -> has to end with law enforcement arriving at the bar for an unrelated
    reason and Kate telling them to gtfo
-
-[partial] Emily intro
--> Emily wakes up, Lena is in her room crying
--> introduce the fact that there is a dangerous pathogen wreaking havoc on
-   the moon
--> ???
--> funeral
 
 [missing] Annie stops working at AgriWorks
 -> (this chapter can be moved to wherever is convenient)
@@ -138,13 +137,13 @@ Annie goes to the library
   -> some ppl get arrested (Lucas?)
 -> another news segment along the lines of "In a bizarre turn of events..."
 
-[partial] Annie meets Jack
+Annie meets Jack and leaves the dome
 -> Jack drives a train into the dome
 -> original plan was for Annie to hand over the documents
   -> police are at Annie's drop-off point, arresting Karl's friend
-  -> she stays on the train and leave the city
+  -> she stays on the train and leaves the city
 
-[partial] Annie sees the outside world for the first time
+Annie sees the outside world for the first time
 -> Annie enjoys the view from the side of the valley
 -> They make their way to where used to be a bridge and climb down
 -> continue towards the bunker
