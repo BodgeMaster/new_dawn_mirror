@@ -2,9 +2,9 @@ At one point, this was my idea for a setting. I don't like all aspects of it
 so this is subject to change where it hasn't already. I might update this
 to reflect the current setting when I have real information to fill in.
 
-- post apocalypse scenario 
+- post apocalypse scenario
   - relatively slow, gradual downfall of civilization - not a fast
-    wipe out event 
+    wipe out event
     - ppl had time to prepare
   - humanity discovers a new, safe alternative to asbestos in the 1970s
     - problem with it: one of the precursor chemicals is way worse than
@@ -20,15 +20,15 @@ to reflect the current setting when I have real information to fill in.
 - story takes place roughly 110 years after the apocalypse
   - story starts on Tue, 2106-06-01
   - just enough time for no living memory of the "old world" to survive
-  - slight retro-futurism 
+  - slight retro-futurism
     - for the most part, technology is stuck in the 80s or 90s, but there
-      are some key differences 
+      are some key differences
       - the underground city has only electric cars
       - successful cryogenic preservation
-    - computing is different 
+    - computing is different
       - home computers are rare - they are similar to early to mid 90s
         machines but have big boy 8" floppy drives
-      - business computers are mostly minicomputers or larger 
+      - business computers are mostly minicomputers or larger
         - they are actually being used for all sorts of tasks like ordering
           supplies or to check inventory etc
       - computing is dominated by a UNIX-like operating system (INUX lol)
