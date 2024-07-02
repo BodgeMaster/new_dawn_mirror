@@ -158,6 +158,9 @@ span.quote.speech::after {
   position: relative;
   bottom: 0.15em;
 }
+span.quote.speech * {
+  color: #303030;
+}
 
 span.quote.non-speech {
   color: #303030;
@@ -175,6 +178,9 @@ span.quote.non-speech::after {
   font-size: 0.75em;
   position: relative;
   bottom: 0.15em;
+}
+span.quote.non-speech * {
+  color: #303030;
 }
 
 /*TODO: Remove and replace with speech/non-speech where appropriate*/
@@ -222,5 +228,5 @@ button.back {
 
 .comment {
   font-style: italic;
-  color: gray;
+  color: gray !important;
 }
