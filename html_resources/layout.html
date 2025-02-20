@@ -119,7 +119,7 @@ alternating lines on the paper.
       lrgsknn grcobotct ggrsgalg.
     </p>
     <p class="copyright">
-      Copyright &#169; 2023 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.
+      Copyright &#169; 2023-2025 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.
     </p>
     <script>
       let spans = ["<span class=\"paper green\">", "<span>"];
@@ -130,7 +130,8 @@ alternating lines on the paper.
         let lines = pre_texts[i].innerHTML.split("\n");
         let result = "";
         for (let j = 0; j < lines.length; j++) {
-          result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";
+          if (lines[j].length >= 80) result = result + spans[j%2] + lines[j] + "</span>\n";
+          else result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";
         }
         pre_texts[i].innerHTML = result;
       }
