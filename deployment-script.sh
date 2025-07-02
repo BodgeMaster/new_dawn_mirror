@@ -4,7 +4,7 @@ cp html_resources/index_template.html index.html
 function genlinks {
   for FILE in $(find . -maxdepth 1 -type f -name "??-*.html" | sort); do
     echo "$FILE" >&2
-    echo -ne "  <li><a href=\"$FILE\">\n"
+    echo -ne "  <li><a href=\"$(sed -e 's/\?/%3F/g' <<< "$FILE")\">\n"
     echo -n "    $(sed -e 's|^\./||;s/-.*//' <<< "$FILE") <span class="'"chapter">'
     grep -oe "<title>.*</title>" $FILE | sed -e 's/<title> //;s| </title>|</span>|'
     echo "  </a></li>"
