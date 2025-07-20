@@ -126,6 +126,9 @@ pre.terminal {
 
   padding: 1em;
 }
+pre.terminal b {
+  color: #c8ff52;
+}
 pre.terminal span {
   color: inherit;
 }
