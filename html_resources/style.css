@@ -126,6 +126,12 @@ pre.terminal {
 
   padding: 1em;
 }
+pre.terminal span {
+  color: inherit;
+}
+pre.terminal span.blur {
+  color: #a8cc5b;
+}
 
 pre.paper {
   /* TODO: typewriter-look? */
@@ -199,6 +205,12 @@ span.chapter::after {
   bottom: 0.15em;
 }
 
+span.blur {
+  filter: url(#crunchy_blur);
+  /* chromium will yeet the entire span if display is inline */
+  display: inline-block;
+}
+
 div.back {
 	font-size: 2.8em;
 	width: 1.3em;
@@ -225,4 +237,11 @@ div.back a:hover {
 .comment {
   font-style: italic;
   color: gray !important;
+}
+
+svg.hidden_filter {
+  width: 0;
+  height: 0;
+  outline: none;
+  border: none;
 }
