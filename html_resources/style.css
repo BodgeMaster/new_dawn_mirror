@@ -192,8 +192,19 @@ span.quote.non-speech * {
   color: #303030;
 }
 
+/*
+Normally, the following should be enough:
 span.chapter {
   color: inherit;
+}
+However, Chromium apparently doesn't apply the a:visted color to children of <a>.
+*/
+
+span.chapter {
+  color: #1515A0;
+}
+a:visited>span.chapter {
+  color: #185113;
 }
 span.chapter::before {
   content: "\25b9";
