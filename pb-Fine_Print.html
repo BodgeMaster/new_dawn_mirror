@@ -1,0 +1,76 @@
+<!DOCTYPE html><html><head><title> Fine Print </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body><svg class="hidden_filter"><filter id="crunchy_blur" x="0" y="0"><feFlood x="4" y="4" height="2" width="2"/><feComposite width="6" height="6" in2="SourceGraphic"/><feTile result="a"/><feComposite in="SourceGraphic" in2="a" operator="in"/><feMorphology operator="dilate" radius="1.4"/><feGaussianBlur stdDeviation="2.2"></feGaussianBlur></filter></svg><div class="back"><a href="index.html">&lt;</a></div>
+
+<h1>Fine Print</h1>
+
+<p>
+  <!--
+    the fact that Mary sits in the front is already a given
+  -->
+  They drive on a dirt road alongside the dried-out <span class="comment">
+  river name</span>. The road is in pretty poor condition and they get
+  shaken thoroughly.<br />
+  Mary appears to be having a blast:
+  <span class="quote speech">Faster! Faster!</span><br />
+  <span class="quote speech">I don&apos;t think Annie would appreciate
+  that.</span><br />
+  <span class="quote speech">Aww.</span><br />
+  Annie says <span class="quote speech">thanks</span> from the rear seats.
+</p>
+<p>
+  <!--
+    assumptions:
+    - walking speed: 5km/h
+    - driving speed: 20 km/h
+    - walking time: 30 min
+
+    -> distance is 2.5km
+
+    -> speed = distance / time
+    -> time * speed = distance
+    -> time = distance / speed
+
+    -> time = 2.5km / 20 km/h
+    -> time = 0.125h
+    -> time = 7.5 min
+  -->
+  After a bit less than ten minutes of driving, Mary points to a structure
+  extending into the river bed and says:
+  <span class="quote speech">That&apos;s it.</span><br />
+  Jack pulls over and parks the truck, and they get out. They walk through
+  the tall grass towards the structure. A bridge further upstream catches
+  Jack&apos;s attention.<br />
+  <span class="quote speech">Is that a road or a railway?</span><br />
+  Mary says: <span class="quote speech">Railway &ndash; why?</span><br />
+  <span class="quote speech">What&apos;s the condition like?</span><br />
+  <span class="quote speech">Not sure, it&apos;s been a while...
+  We used to play there as kids, we even got a railcar to move once.</span>
+  <br />
+  <span class="quote speech">Sounds like serviceable enough to me. Do you
+  know where it goes?</span><br />
+  <span class="quote speech">There&apos;s a train station a bit that way,
+  with a bunch of other ruins in the area.</span><br />
+  <span class="quote speech">And the other direction?</span><br />
+  <span class="quote speech">I don&apos;t know. We followed it pretty far,
+  the only thing we found is a switch.</span><br />
+  <span class="quote speech">Okay. Would be incredibly useful if that ended
+  up somewhere in Ivydale.</span>
+</p>
+<p>
+  They reach the structure. It&apos;s the entrance to a tunnel
+  with a few walls that pertrude into the river and two
+  <span class="comment">weers? translate: Stauwehre / Wehre</span>, one for
+  controlling the <span class="comment">inflow? tanslate: Zufluss</span>,
+  one for a bypass. The floor of the tunnel sits significantly beneath
+  the river bed and, while the river bed is completely dry, there is still
+  some water inside.
+  
+  <!--
+    - trockenes Wehr am Einlass
+    - water in the tunnel
+    - bridge nearby
+    - look at the large buried tank / branching point
+    - go upstream to see where the river has gone
+  -->
+</p>
+
+<p class="copyright">Copyright &#169; 2023-2025 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.</p><script>let spans = ["<span class=\"paper green\">", "<span>"]; let pre_texts = document.getElementsByTagName("pre"); for (let i = 0; i < pre_texts.length; i++) {if (pre_texts[i].className != "paper") continue; let lines = pre_texts[i].innerHTML.split("\n"); let result = ""; for (let j = 0; j < lines.length; j++) {if (lines[j].length >= 80) result = result + spans[j%2] + lines[j] + "</span>\n"; else result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";} pre_texts[i].innerHTML = result;}</script></body></html>
