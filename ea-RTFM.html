@@ -4,11 +4,12 @@
 <!-- perspective: Annie -->
 
 <p>
-  Annie rings the doorbell and waits. Nobody answers. She checks that
-  she&apos;s at the right door &ndash; yes, this is grandpa Karl&apos;s
+  Annie arrives at a house with multiple ground-level entrances.
+  She rings one of the doorbells and waits. Nobody answers. She checks
+  that it is the right door &ndash; yes, this is grandpa Karl&apos;s
   apartment. She rings again. A window on <span class="comment">in?</span>
-  one of the adjacent houses opens and she hears Isabelle quietly
-  calling her.<br />
+  one of the adjacent houses opens and she hears Isabelle quietly calling
+  her:<br />
   <span class="quote speech">Annie, we&apos;re over here.</span><br />
   She walks over.<br />
   <span class="quote speech">Which door?</span><br />
@@ -21,30 +22,149 @@
   This place has been <span class="comment">vacant</span> forever, might
   as well use it.</span><br />
   Annie slides her shoes off and leans her bag against the wall. Then,
-  they go to the living room where cables and computer parts are all over
+  they go into the living room where cables and computer parts are all over
   the floor. Lucas sits in front of the rack between two opened boxes.
-  The rack&apos;s side panels had been removed, revealing the rails holding
-  the various devices inside and their power cables. Lucas is pushing
-  a circuit board into a half-assembled device that hangs out the front.
-  Karl goes over to a stool next to the rack, carefully avoiding stepping
-  on things, and sits down.
+  The rack&apos;s side panels had been removed, revealing the devices
+  mounted inside and the cables connecting them. Lucas is pushing a circuit
+  board into a half-assembled metal box that hangs out the front. Karl goes
+  over to a stool next to the rack, carefully avoiding stepping on things,
+  and sits down.
 </p>
 <p>
-  Annie sits down next to Lucas and watches as he carefully inserts one
-  board after the other. Karl is looking at the manual and tells him
-  to set some tiny switches on the front of some of them.<br />
-  Karl says: <span class="quote speech">Annie, can you hand me these four
-  gray ribbon cables?</span><br />
-  She looks around, lots of different cables everywhere.<br />
-  <span class="quote speech">The wide, flat ones to your left.</span><br />
-  He takes them and plugs them somewhere into the back of the rack.
+  Annie sits down next to Lucas and watches as he carefully
+  <span class="comment">synonym for careful?</span> inserts another
+  board. Karl is reading from a binder of documentation and tells him to
+  set some tiny switches on its front edge.<br />
+  While grabbing the next board, Lucas says:
+  <span class="quote speech">Annie, can you take these and prepare the DIP
+  switches?</span><br />
+  He pushes the box over to her. It contains four circuit boards, all
+  identical.<br />
+  <span class="quote speech">Uhm, okay.</span>
+  She takes one of the boards out and looks at it. It&apos;s full of
+  electronic components on both sides and one of the edges holds a tiny red
+  box with an even tinier row of switches on it.<br />
+  <span class="comment">Above is a bad description. Need naive description
+  of DIP switches from someone who doesn&apos;t know.</span><br />
+  <span class="quote speech">So what do I set them to?</span><br />
+  Karl tells her a combination and she tries to push the switches up or
+  down as needed with her finger nails.<br />
+  Lucas says <span class="quote speech">Here, use this.</span> and hands
+  her a pen.<br />
+  Using it to flip the switches, she sets the combination Karl says, then
+  hands the board over to Lucas and grabs the next one.
 </p>
 <p>
-  Isabelle grabs the terminal from a corner of the room and lifts it onto
-  the rack. Meanwhile, Annie and Lucas start collecting the cables and
-  loose parts from the floor. Karl plugs rack and terminal into power and
-  connects a cable between the terminal and one of the devices in the front
-  of the rack.
+  Karl takes the racks&apos;s power cable and plugs it in. Isabelle gets
+  the terminal from a corner of the room and lifts it onto the rack.
+  Meanwhile, Annie and Lucas start collecting the cables and loose parts
+  from the floor. Isabelle plugs the terminal into power and Karl connects
+  a cable between it and one of the devices in the front of the rack.
+  They all gather around and Karl powers it on. He follows the same
+  procedure that Annie and Isabelle performed in the library: Key switch
+  at the top of the rack to <span class="quote non-speech">RST</span>,
+  power up the hard drive, hold <span class="quote non-speech">LOAD</span>
+  and key switch to <span class="quote non-speech">RUN</span>. Then, he
+  pulls a floppy disk out of the documentation binder and inserts it into
+  the computer. He enters some commands, the drive clicks a few times, and
+  the terminal displays a menu.
 </p>
+<!--
+  Hardware in this machine:
+  - 1x HDD (platters: 1 removable, 3 fixed)
+  - 2x FDD
+  - 2x backplane (8 slots each)
+    - CPU (1 board)
+    - FPU (1 board) (removed, replaced with NC 2000)
+    - Number Cruncher 2000 (4 boards)
+    - HDDC (1 board)
+    - FDDC (1 board)
+    - MTDC (1 board)
+    - memory (8 boards)
+  - 1x PDU
+  - 1x MTD
+
+   16M =  16777216 => 0x00000000 to 0x00FFFFFF
+   64M =  67108864 => 0x00000000 to 0x03FFFFFF
+  128M = 134217728 => 0x00000000 to 0x07FFFFFF
+
+  -> 32-bit address bus
+
+  1 PC SIMM = ~1MiB
+  16 SIMMS = 1 memory board => 8 boards installed, 128M
+
+
+
+  //TODO: realistic EPROM sizes?
+  ROMs:
+    32k platform code (bootrom)
+    8k  FDDC
+    8k  HDDC
+    8k  MTDC
+
+  Registers:
+  - CPU: 32x 8 bit? - are these mapped into RAM?
+    - A (32-bit) / Split registers 2x16-bit, 4x8-bit
+    - B (32-bit) / Split registers 2x16-bit, 4x8-bit
+    - C (32-bit) / Split registers 2x16-bit, 4x8-bit
+    - D (32-bit) / Split registers 2x16-bit, 4x8-bit
+    - Address pointer (32-bit)
+    - Flags (32-bit)
+    - Interrupt Return Pointer (32-bit)
+    - software interrupt capabilities?
+    - context switching capabilities?
+    - timers?
+    - ?
+  - Number Cruncher 2000:
+    - Instruction Register (32-bit)
+    - Flags (32-bit)
+    - 32x 32-bit / 16x 64-bit general-purpose register
+    - DMA load pointer (32-bit)
+
+-->
+<pre class="terminal">
+[ SYSTEM DIAGNOSTICS v3.15 ]
+----------------------------
+
+1. Quick Test
+2. Run All Tests
+3. CPU Test
+4. Memory Test
+5. FPU Test
+6. DMA Test
+7. Serial Test
+8. FDD Test
+9. HDD Test
+10. MTD Test
+11. Load Module...
+
+Choice: &#9608;
+</pre>
+<p>
+  Lucas asks:
+  <span class="quote speech">Odds of this working first try?</span><br />
+  Karl says: <span class="quote speech">We will see...</span><br />
+  He types a number and presses enter.
+</p>
+<pre class="terminal">
+Choice: 2
+
+Initializing...
+Loading CPU Test...
+  Registers:  Pass  Branching:  Pass
+  ALU:        Pass  Long Words: Pass
+  All Instrct:Pass  Stress Test:Pass
+Result: PASSED
+Loading Memory Test...
+  Memory map:
+    00000000-
+Result: FAIL
+Loading FPU Test...
+  NC2K OpROM init
+  FP Arithmetic Test
+  SIMD Test
+  <!-- TODO: what kinda tests does this thing do? -->
+Result: FAIL <!-- because memory error -->
+</pre>
 
 <p class="copyright">Copyright &#169; 2023-2025 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.</p><script>let spans = ["<span class=\"paper green\">", "<span>"]; let pre_texts = document.getElementsByTagName("pre"); for (let i = 0; i < pre_texts.length; i++) {if (pre_texts[i].className != "paper") continue; let lines = pre_texts[i].innerHTML.split("\n"); let result = ""; for (let j = 0; j < lines.length; j++) {if (lines[j].length >= 80) result = result + spans[j%2] + lines[j] + "</span>\n"; else result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";} pre_texts[i].innerHTML = result;}</script></body></html>
