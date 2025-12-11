@@ -1,0 +1,88 @@
+<!DOCTYPE html><html><head><title> Internet Saboteur </title><link rel="stylesheet" type="text/css" href="html_resources/style.css"></head><body><svg class="hidden_filter"><filter id="crunchy_blur" x="0" y="0"><feFlood x="4" y="4" height="2" width="2"/><feComposite width="6" height="6" in2="SourceGraphic"/><feTile result="a"/><feComposite in="SourceGraphic" in2="a" operator="in"/><feMorphology operator="dilate" radius="1.4"/><feGaussianBlur stdDeviation="2.2"></feGaussianBlur></filter></svg><div class="back"><a href="index.html">&lt;</a></div>
+<h1> Internet Saboteur </h1>
+<!--
+  Outline:
+  - Annie goes to basement
+  - she finds a sign on the telephone
+  - she waits for Jack to dial in
+  - they talk
+  - she leaves for the invitation she got
+-->
+<p>
+  Annie walks down the stairs to the basement and turns on the lights.
+  She goes back to the small office space with the terminal where she
+  finds a sticky note on the screen:
+  <span class="quote non-speech">Trying to sabotage the network or what?
+  That phone stays unplugged.</span>
+  She takes the note off the screen and sits down. She finds a pen and
+  scribbles on it: <span class="quote non-speech">Sorry</span>
+</p>
+<p>
+  The terminal screen is dark. She looks for a way to turn it on.
+  There&apos;s a power switch on the side but that&apos;s already on.
+  That <span class="quote non-speech">RDY</span> light is lit up.
+  She tries pressing a random letter. The screen crackles as it gets
+  energized and it slowly lights up.
+  The <span class="quote non-speech">RDY</span> light goes out.
+</p>
+<pre class="terminal">Wed, 2106-06-02, 18:21
+
+AgriWorks Login: f&#9608;
+</pre>
+<p>
+  It appears that Jack isn&apos;t there yet. Annie waits for a moment,
+  before she gets bored and gets up to grab some cookies from the break
+  room. Cookies in hand, she swings by her office to grab a few sheets of
+  paper and a pen. Then, she goes back downstairs and sits at the terminal
+  desk. The screen had gone out again so she presses another button.
+  Still nothing. She makes some space on the desk, folds the paper
+  in half and starts drawing.
+</p>
+<p>
+  Just as she gets started, the terminal comes alive. The screen lights up
+  and it makes a beep.
+  <br />
+  <span class="comment">TODO: Annie needs to figure out the return key in
+  chapter 2</span>
+</p>
+<!--
+  What do they talk about? Need to collect questions.
+  - Questions about the old world?
+  - "But isn't the outside toxic?"
+  - short introduction on how to use shift/bksp/return
+  - Reason for Jack to be there
+  - bunker functions (computer, phone, food supply, preservation chambers
+  - personal details?
+-->
+<pre class="terminal">
+<b>Jack&gt;</b> Hi.
+<b>Jack&gt;</b> So I made a little program that should make it easier to chat...
+<b>Jack&gt;</b> Anyway, am here. You there?
+<b>Annnie&gt;</b> yes
+<span class="comment">add some kinda small talk or no?</span>
+<b>Jack&gt;</b> You said you had questions... Ask away.
+<b>Annie&gt;</b> my grandpa said you were frozen in your bunker   how and why
+<b>Jack&gt;</b> That is a great over-simplification, but yes. I don&apos;t know how it actually
+  works. People much smarter than me figured it out very late into the disaster.
+<b>Jack&gt;</b> As for why... I am part of a ground support team for the Lunar Biosphere
+  Project. Our task is to wait until needed, and then use the abandoned
+  infrastructure to the best of our abilities to assist them.
+<b>Annie&gt;</b> there are other people with you
+<b>Jack&gt;</b> Well yes and no. One of them is left. I&apos;ll leave her frozen until I get
+  this door open, don&apos;t think she&apos;d deal well with this siuation.
+<b>Annie&gt;</b> what happened to the rest
+<b>Jack&gt;</b> They were called up, went outside, and fulfilled their mission.
+<b>Annie&gt;</b> isnt the outside toxic
+<b>Jack&gt;</b> It was. Reading the logbook, it seems that things were mostly fine again
+  by around 2050.
+<b>Annie&gt;</b> people here think its still impossible to live there
+<b>Annie&gt;</b> they taught us in school that there are deadly chemicals in the air
+<b>Jack&gt;</b> That was true at one point, a long time ago. How much do you know about
+  the disaster?
+<b>Annie&gt;</b> not much  just that it happened and the result
+<b>Jack&gt;</b> <span class="comment">Jack gives a quick rundown of what happened, can be one of:
+  - mining sludge dam broke and there was a chemical plant downstream
+  - something started cooking off underground like Centralia
+  - ??? (need more options to decide)</span>
+</pre>
+<p class="copyright">Copyright &#169; 2023-2025 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.</p><script>let spans = ["<span class=\"paper green\">", "<span>"]; let pre_texts = document.getElementsByTagName("pre"); for (let i = 0; i < pre_texts.length; i++) {if (pre_texts[i].className != "paper") continue; let lines = pre_texts[i].innerHTML.split("\n"); let result = ""; for (let j = 0; j < lines.length; j++) {if (lines[j].length >= 80) result = result + spans[j%2] + lines[j] + "</span>\n"; else result = result + spans[j%2] + lines[j] + " ".repeat(80-lines[j].length) + "</span>\n";} pre_texts[i].innerHTML = result;}</script></body></html>
