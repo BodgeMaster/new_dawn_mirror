@@ -233,14 +233,14 @@ span.blur {
   display: inline-block;
 }
 
-div.back {
+div.home {
 	font-size: 2.8em;
 	width: 1.3em;
 	height: 1.3em;
 	position: fixed;
 	top: 0.4em;
 }
-div.back a {
+div.home a {
   color: black;
   text-decoration: none;
   text-align: center;
@@ -251,7 +251,7 @@ div.back a {
   border: 1.2px solid #97979a;
   background: #e9e9ed;
 }
-div.back a:hover {
+div.home a:hover {
   background: #d0d0d7;
   border: 1.2px solid #86868f;
 }
