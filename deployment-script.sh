@@ -11,8 +11,21 @@ function genlinks {
   done
 }
 
+function genjson {
+  echo -n '{"pages":['
+  { for FILE in $(find . -maxdepth 1 -type f -name "??-*.html" | sort); do
+    echo "$FILE" >&2
+    echo -n "\"$FILE\","
+  done } | sed -e 's/.$//'
+  echo "]}"
+}
+
+echo "Generating landing page..." >&2
 sed -ne '/  <!-- chapter_list_here -->/q;p' html_resources/index_template.html > index.html
 # for some fucking reason, there is no way to tell wc to only print the number so we do cat abuse to get rid of the filename
 LINE_NUMBER=$(("$(cat index.html | wc -l)"+2))
 genlinks >> index.html
 tail -n+$LINE_NUMBER html_resources/index_template.html >> index.html
+
+echo "Generating chapters JSON..." >&2
+genjson > chapters.json

@@ -16,7 +16,7 @@
       </filter>
     </svg>
     <div class="home">
-      <a href="index.html">&lt;</a>
+      <a href="index.html">&#8962;</a>
     </div>
     <h1> Layout Test Page </h1>
     <p>
@@ -151,7 +151,7 @@ o   &#183;    ,        o . &#183;   &#183;        .          *   ,     . .      
 o&#215;&#183; o     ,&#215;  .,     *  o &#183;    '+,  '* o  '+,    . ..             &#183;'  &#183;      &#183;
       . +  . .      '         .        .  . +     &#183; +*    ' &#183;' +     .        .+</pre>
     <p class="copyright">
-      Copyright &#169; 2023-2025 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.
+      Copyright &#169; 2023-2026 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.
     </p>
     <script>
       let spans = ["<span class=\"paper green\">", "<span>"];
@@ -167,6 +167,37 @@ o&#215;&#183; o     ,&#215;  .,     *  o &#183;    '+,  '* o  '+,    . ..       
         }
         pre_texts[i].innerHTML = result;
       }
+
+      fetch("./chapters.json").then(function(result) { return result.json(); }).then(function(json) {
+        let chapters = json.pages;
+        for (let i=0; i<chapters.length; i++) {
+          if (chapters[i] === document.URL.replace(/^.*\//, "./")) {
+            //<div class="prev">
+            //  <a href="./prev.html">&#9667;</a>
+            //</div>
+            let prevdiv = document.createElement("div");
+            prevdiv.className = "prev";
+            if (i > 0) {
+              prevdiv.innerHTML = "<a href=\"" + chapters[i-1] + "\">&#9667;</a>";
+            } else {
+              prevdiv.innerHTML = "<p>&#9667;</p>";
+            }
+            document.body.appendChild(prevdiv);
+
+            //<div class="next">
+            //  <a href="./next.html">&#9657;</a>
+            //</div>
+            let nextdiv = document.createElement("div");
+            nextdiv.className = "next";
+            if (i < chapters.length-1) {
+              nextdiv.innerHTML = "<a href=\"" + chapters[i+1] + "\">&#9657;</a>";
+            } else {
+              nextdiv.innerHTML = "<p>&#9657;</p>";
+            }
+            document.body.appendChild(nextdiv);
+          }
+        }
+      });
     </script>
   </body>
 </html>
