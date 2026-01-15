@@ -4,18 +4,19 @@
 <!-- perspective: Jack -->
 
 <p>
-  <!--
-    the fact that Mary sits in the front is already a given
-  -->
   They drive on a dirt road alongside the dried-out <span class="comment">
   river name</span>. The road is in pretty poor condition and they get
-  shaken thoroughly.<br />
-  Mary appears to be having a blast:
+  shaken thoroughly. Mary sits in the front with Jack, showing him the way.
+  <br />
+  She appears to be having a blast:
   <span class="quote speech">Faster! Faster!</span><br />
   <span class="quote speech">I don&apos;t think Annie would appreciate
   that.</span><br />
   <span class="quote speech">Aww.</span><br />
-  Annie says <span class="quote speech">thanks</span> from the rear seats.
+  They hear Annie say <span class="quote speech">thanks</span> from behind
+  Jack.<br />
+  <span class="comment">somezthing along the lines of &quot;You good back
+  there?&quot;</span>
 </p>
 <p>
   <!--
@@ -61,17 +62,15 @@
   with a few walls that pertrude into the river and two
   <span class="comment">weers? translate: Stauwehre / Wehre</span>, one for
   controlling the <span class="comment">inflow? tanslate: Zufluss</span>,
-  one for a bypass. The floor of the tunnel sits significantly beneath
-  the river bed and, while the river bed is completely dry, there is still
+  one for a bypass <span class="comment"> can be adjusted with large
+  screws </span>. The floor of the tunnel sits significantly beneath the
+  river bed and, while the river bed is completely dry, there is still
   some water inside.
-  
-  <!--
-    - trockenes Wehr am Einlass
-    - water in the tunnel
-    - bridge nearby
-    - look at the large buried tank / branching point
+  <span class="comment"><br />
+  TBD:<br />
+    - look at the large buried tank / branching point<br />
     - go upstream to see where the river has gone
-  -->
+  </span>
 </p>
 
 <p class="copyright">Copyright &#169; 2023-2026 Jan Danielzick (aka. BodgeMaster) &ndash; All rights reserved.</p><script>let spans=["<span class=\"paper green\">","<span>"];let pre_texts=document.getElementsByTagName("pre");for(let i=0;i<pre_texts.length;i++){if(pre_texts[i].className!="paper")continue;let lines=pre_texts[i].innerHTML.split("\n");let result="";for(let j=0;j<lines.length;j++){if(lines[j].length>=80)result=result+spans[j%2]+lines[j]+"</span>\n";else result=result+spans[j%2]+lines[j]+" ".repeat(80-lines[j].length)+"</span>\n";}pre_texts[i].innerHTML=result;}fetch("./chapters.json").then(function(result){return result.json();}).then(function(json){let chapters=json.pages;for(let i=0;i<chapters.length;i++){if(chapters[i]===document.URL.replace(/^.*\//,"./")){let prevdiv=document.createElement("div");prevdiv.className="prev";if(i>0){prevdiv.innerHTML="<a href=\""+chapters[i-1]+"\">&#9667;</a>";}else{prevdiv.innerHTML="<p>&#9667;</p>";}document.body.appendChild(prevdiv);let nextdiv=document.createElement("div");nextdiv.className="next";if(i<chapters.length-1){nextdiv.innerHTML="<a href=\""+chapters[i+1]+"\">&#9657;</a>";}else{nextdiv.innerHTML="<p>&#9657;</p>";}document.body.appendChild(nextdiv);}}});</script></body></html>
