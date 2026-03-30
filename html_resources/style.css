@@ -62,6 +62,7 @@ p, pre, ul, h2 {
 
 li ul {
   margin-left: 2em;
+  margin-bottom: 0;
   width: 100%;
 }
 
