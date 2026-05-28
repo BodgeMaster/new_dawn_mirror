@@ -1,0 +1,27 @@
+I take pride in writing New Dawn myself. No LLM output is used in
+the creative process. LLM output is never used directly.
+
+Unfortunately, I have to fall back to LLMs for feedback due to a lack of
+people reading my stuff. I don't like doing that, so please feel free to
+replace AI by reading everything thoroughly and giving feedback.
+Any feedback is welcome. The more extensive/detailed the better. Even if
+it's just a list of typos or "You stink, go take a shower"...
+
+With that said, here is how I use AI:
+- start a new chat
+- paste prompt from below
+- paste HTML file
+- ignore suggestions on story content / events (if any)
+- [optional] ask for more vocabulary / wording suggestions
+- take notes on
+  - vocabulary suggestions (verify as needed)
+  - wording suggeststions
+  - flow issues (only where I agree with them)
+- reword wording suggestions in my own words
+- revise chapters
+
+Prompt:
+The following is a chapter taken from a larger work-in-progress story called New Dawn. Thoughts? Criticisms?
+
+Any HTML comments are notes to self, you can generally ignore those. <span class="comment"> are author's notes, usually where I need to work on stuff and want to give potential beta readers a heads-up. You can assume these will be addressed sooner or later and need no comment - except when they are vocabulary questions (English is not my first language).
+There are previous chapters, so some things will be missing context.
